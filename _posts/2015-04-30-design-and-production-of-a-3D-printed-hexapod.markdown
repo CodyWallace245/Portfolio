@@ -56,4 +56,4 @@ After selecting a communication type and preparing the PCBs/antenaes for operati
 
 Finally, we were able to see our work come to life. We set it up and were able to play with it, a few weeks before presentation day!
 
-![Testing!]({{site.baseurl}}/assets/vids/testing.mp4)
+![Testing!]({{site.baseurl}}/assets/vids/Testing.mp4)
