@@ -54,6 +54,6 @@ After selecting a communication type and preparing the PCBs/antenaes for operati
 
 ## Test!
 
-Finally, we were able to see our work come to life. We set it up and were able to play with it, a few weeks before presentation day!
+Finally, we were able to see our work come to life. We set it up and were able to play with our own Hexapod and a few weeks before presentation day!
 
-![Testing!]({{site.baseurl}}/assets/vids/Testing.mp4)
+![Testing!]({{site.baseurl}}/assets/vids/Testing.gif)
