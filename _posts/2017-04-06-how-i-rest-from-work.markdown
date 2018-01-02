@@ -12,13 +12,13 @@ The design and production of a 3D-printed hexapod was a year-long project that m
 
 The train-inspired locomotion allowed us to actuate all 6 legs with only 2 motors. We did this by creating an alternating 1 up - 2 down gear train, so that at any given rotation, 3 legs were touching the ground, creating a stable triangle. To accomplish this long term - we had to make use of the encoders that came with the motors, so that we could monitor full rotations and sync the two motors for full actuation at any time.
  
-![Tripedal gate]({{site.baseurl}}/assets/img/gear_train.jpg)
+![Tripedal gate]({{site.baseurl}}/assets/img/gear%20train.jpg)
 
 ## Iteration 1
 
 Iteration 1 was the first rough CAD drawing that we had for our project, and we made A LOT of changes as we went along. This initial model was only conceptual, but it explained a simple way to show how to articulate 6 legs with only 2 motors.
 
- ![Iteration 1]({{site.baseurl}}/assets/img/Initial Design.jpg)
+ ![Iteration 1]({{site.baseurl}}/assets/img/Initial%20Design.jpg)
 
 This design was then discarded for a 2nd design which we believed to be more stable.
 
