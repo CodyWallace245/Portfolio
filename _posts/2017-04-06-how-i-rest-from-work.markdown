@@ -12,13 +12,13 @@ The design and production of a 3D-printed hexapod was a year-long project that m
 
 The train-inspired locomotion allowed us to actuate all 6 legs with only 2 motors. We did this by creating an alternating 1 up - 2 down gear train, so that at any given rotation, 3 legs were touching the ground, creating a stable triangle. To accomplish this long term - we had to make use of the encoders that came with the motors, so that we could monitor full rotations and sync the two motors for full actuation at any time.
  
-![Tripedal gate]({{site.baseurl}}/Portfolio/assets/img/gear%20train.jpg)
+![Tripedal gate]({{site.baseurl}}/Portfolio/assets/img/Gear_Train.jpg)
 
 ## Iteration 1
 
 Iteration 1 was the first rough CAD drawing that we had for our project, and we made A LOT of changes as we went along. This initial model was only conceptual, but it explained a simple way to show how to articulate 6 legs with only 2 motors.
 
- ![Iteration 1]({{site.baseurl}}/assets/img/Initial%20Design.jpg)
+ ![Iteration 1]({{site.baseurl}}/assets/img/Initial_Design.jpg)
 
 This design was then discarded for a 2nd design which we believed to be more stable.
 
@@ -26,7 +26,7 @@ This design was then discarded for a 2nd design which we believed to be more sta
 
 Iteration 2 began to look closer to the final product, it had a horizontal gear train system that used universal joints to create the oar-like movement we were trying to create with the legs. The chasis had three main parts for assembly, and ventillation holes in the base of the model for heat. The legs were curved to reduce the stress points, and ball socket joints were added to the legs and gears to create the rotational motion that we needed.
 
- ![Iteration 2]({{site.baseurl}}/assets/img/Iteration 2.jpg)
+ ![Iteration 2]({{site.baseurl}}/assets/img/Iteration_2.png)
 
 This design was much closer to the final design, and we took many of these concepts to the end.
 
@@ -34,11 +34,11 @@ This design was much closer to the final design, and we took many of these conce
 
 Iteration 3 was the final design that we chose. There was a total of 35 different parts and all were selected and modified to fit the final assembly. We created the most strained parts of the leg on the Objet 360 machine, and created the rest of the assembly on the Makerbot Replicator 2. By using both systems, we were able to maximize strength in areas that needed it, and reduce overall cost by printing everything else on the Makerbot Replicator 2.
 
-![Iteration 3]({{site.baseurl}}/assets/img/Iteration 3.jpg)
+![Iteration 3]({{site.baseurl}}/assets/img/Iteration_3.PNG)
 
 Because we now knew that we were sticking with this design, we had to alter parts to fit the final build volume of the Replicator 2. The Frame was seperated into 4 pieces (instead of 1), and male/female joints were added to increase strength in lateral directions. We then epoxied the frame and sanded the excess epoxy to create the appearance of a solid frame. We used this same technique with the two portions of the leg.
 
-![Chasis Merging]({{site.baseurl}}/assets/img/Chasis Merging.jpg)
+![Chasis Merging]({{site.baseurl}}/assets/img/Chasis_Merging.PNG)
 
 All other components had to be created, assembled, and added to the final
 
