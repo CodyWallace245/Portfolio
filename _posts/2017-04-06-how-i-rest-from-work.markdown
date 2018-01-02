@@ -1,19 +1,47 @@
 ---
 layout: post
-title: How I Rest From Work
-date: 2017-09-12 13:32:20 +0300
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: i-rest.jpg # Add image post (optional)
-tags: [Holidays, Hawaii]
+title: Design and Production of a 3D-printed Hexapod
+date: 2015-04-30 12:00:20
+description: Major Qualification Project (MQP) that won the Mechanical Engineering Provost Award - The most prestigious award an MQP can earn from WPI.
+img: Final_Render.png
+tags: [Hexapod,Robotics,Robots,Design,3D-Printing]
 ---
-Fam locavore snackwave bushwick +1 sartorial. Selfies portland knausgaard synth. Pop-up art party marfa deep v pitchfork subway tile 3 wolf moon. Ennui pinterest tumblr yr, adaptogen succulents copper mug twee. Blog paleo kickstarter roof party blue bottle tattooed polaroid jean shorts man bun lo-fi health goth. Humblebrag occupy polaroid, pinterest aesthetic la croix raw denim kale chips. 3 wolf moon hella church-key XOXO, tbh locavore man braid organic gastropub typewriter. Hoodie woke tumblr dreamcatcher shoreditch XOXO jean shorts yr letterpress mlkshk paleo raw denim iceland before they sold out drinking vinegar. Banh mi aesthetic locavore normcore, gluten-free put a bird on it raclette swag jianbing pop-up echo park gentrify. Stumptown brooklyn godard tumeric ethical. Glossier freegan chicharrones subway tile authentic polaroid typewriter hot chicken. Thundercats small batch heirloom meggings.
+The design and production of a 3D-printed hexapod was a year-long project that my team and I started the beginning of the 2015 school year. We focused mostly on creating a robot that was both engaging and innovative, while staying within our $640 budget. We wanted to use as few motors as possible to actuate the motion and so we innovated on common gaitstyles used in multi-legged robots.
 
-## Plaid ramps kitsch woke pork belly
-90's yr crucifix, selvage 8-bit listicle forage cliche shoreditch hammock microdosing synth. Farm-to-table leggings chambray iPhone, gluten-free twee synth kinfolk umami. Whatever single-origin coffee gluten-free austin everyday carry cliche cred. Plaid ramps kitsch woke pork belly organic. Trust fund whatever coloring book kombucha brooklyn. Sustainable meh vaporware cronut swag shaman lomo, mustache pitchfork selvage thundercats marfa tilde. Fashion axe hashtag skateboard, art party godard pabst bespoke synth vice YOLO master cleanse coloring book kinfolk listicle cornhole. Try-hard mixtape umami fanny pack man bun gastropub franzen tbh. Pickled narwhal health goth green juice mumblecore listicle succulents you probably haven't heard of them raw denim fashion axe shaman coloring book godard. Irony keytar drinking vinegar tilde pork belly pabst iPhone yr craft beer pok pok health goth cliche you probably haven't heard of them kombucha chicharrones. Direct trade hella roof party chia. Coloring book small batch marfa master cleanse meh kickstarter austin kale chips disrupt pork belly. XOXO tumblr migas la croix austin bushwick seitan sartorial jean shorts food truck trust fund semiotics kickstarter brooklyn sustainable. Umami knausgaard mixtape marfa. Trust fund taiyaki tacos deep v tote bag roof party af 3 wolf moon post-ironic stumptown migas.
+## Tripedal gait style
 
-![I and My friends]({{site.baseurl}}/assets/img/we-in-rest.jpg)
+The train-inspired locomotion allowed us to actuate all 6 legs with only 2 motors. We did this by creating an alternating 1 up - 2 down gear train, so that at any given rotation, 3 legs were touching the ground, creating a stable triangle. To accomplish this long term - we had to make use of the encoders that came with the motors, so that we could monitor full rotations and sync the two motors for full actuation at any time.
+ 
+![Tripedal gate]({{site.baseurl}}/assets/img/gear_train.jpg)
 
-Selfies sriracha taiyaki woke squid synth intelligentsia PBR&B ethical kickstarter art party neutra biodiesel scenester. Health goth kogi VHS fashion axe glossier disrupt, vegan quinoa. Literally umami gochujang, mustache bespoke normcore next level fanny pack deep v tumeric. Shaman vegan affogato chambray. Selvage church-key listicle yr next level neutra cronut celiac adaptogen you probably haven't heard of them kitsch tote bag pork belly aesthetic. Succulents wolf stumptown art party poutine. Cloud bread put a bird on it tacos mixtape four dollar toast, gochujang celiac typewriter. Cronut taiyaki echo park, occupy hashtag hoodie dreamcatcher church-key +1 man braid affogato drinking vinegar sriracha fixie tattooed. Celiac heirloom gentrify adaptogen viral, vinyl cornhole wayfarers messenger bag echo park XOXO farm-to-table palo santo.
+## Iteration 1
+
+Iteration 1 was the first rough CAD drawing that we had for our project, and we made A LOT of changes as we went along. This initial model was only conceptual, but it explained a simple way to show how to articulate 6 legs with only 2 motors.
+
+ ![Iteration 1]({{site.baseurl}}/assets/img/Initial_Design.jpg)
+
+This design was then discarded for a 2nd design which we believed to be more stable.
+
+## Iteration 2
+
+Iteration 2 began to look closer to the final product, it had a horizontal gear train system that used universal joints to create the oar-like movement we were trying to create with the legs. The chasis had three main parts for assembly, and ventillation holes in the base of the model for heat. The legs were curved to reduce the stress points, and ball socket joints were added to the legs and gears to create the rotational motion that we needed.
+
+ ![Iteration 2]({{site.baseurl}}/assets/img/Iteration_2.jpg)
+
+This design was much closer to the final design, and we took many of these concepts to the end.
+
+## Iteration 3
+
+Iteration 3 was the final design that we chose. There was a total of 35 different parts and all were selected and modified to fit the final assembly. We created the most strained parts of the leg on the Objet 360 machine, and created the rest of the assembly on the Makerbot Replicator 2. By using both systems, we were able to maximize strength in areas that needed it, and reduce overall cost by printing everything else on the Makerbot Replicator 2.
+
+![Iteration 3]({{site.baseurl}}/assets/img/Iteration_3.jpg)
+
+Because we now knew that we were sticking with this design, we had to alter parts to fit the final build volume of the Replicator 2. The Frame was seperated into 4 pieces (instead of 1), and male/female joints were added to increase strength in lateral directions. We then epoxied the frame and sanded the excess epoxy to create the appearance of a solid frame. We used this same technique with the two portions of the leg.
+
+![Chasis Merging]({{site.baseurl}}/assets/img/Chasis_Merging.jpg)
+
+All other components had to be created, assembled, and added to the final
+
 
 >Hexagon shoreditch beard, man braid blue bottle green juice thundercats viral migas next level ugh. Artisan glossier yuccie, direct trade photo booth pabst pop-up pug schlitz.
 
