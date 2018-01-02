@@ -8,11 +8,11 @@ tags: [Hexapod,Robotics,Robots,Design,3D-Printing]
 ---
 The design and production of a 3D-printed hexapod was a year-long project that my team and I started the beginning of the 2015 school year. We focused mostly on creating a robot that was both engaging and innovative, while staying within our $640 budget. We wanted to use as few motors as possible to actuate the motion and so we innovated on common gaitstyles used in multi-legged robots.
 
-## Tripedal gait style
+## Tripedal gate style
 
 The train-inspired locomotion allowed us to actuate all 6 legs with only 2 motors. We did this by creating an alternating 1 up - 2 down gear train, so that at any given rotation, 3 legs were touching the ground, creating a stable triangle. To accomplish this long term - we had to make use of the encoders that came with the motors, so that we could monitor full rotations and sync the two motors for full actuation at any time.
  
-![Tripedal gate]({{site.baseurl}}/Portfolio/assets/img/Gear_Train.jpg)
+![Tripedal gate]({{site.baseurl}}/assets/img/Gear_Train.jpg)
 
 ## Iteration 1
 
