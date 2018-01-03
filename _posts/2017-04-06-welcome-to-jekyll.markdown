@@ -1,26 +1,16 @@
 ---
 layout: post
-title: "Welcome to Jekyll!"
-date: 2017-04-06 13:32:20 +0300
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+title: "Creating my "Very Own Drone""
+date: 2017-12-30 20:45:00 
+description: This is my very first, all-in-one drone. There are other models out there, that require fasteners, or components that aren't essentials, so I aimed to fix that!
 img:  # Add image post (optional)
+tags: [Drone,Robotics,Robots,Design,3D-Printing,]
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+I started out looking for a new project to get into and I had recently taken a Coursera course on Aerial Robotics, so I was interested in getting something drone-related started. I came across this [great instructable](https://www.thingiverse.com/thing:1221911) on Thingiverse for printing and setting up a mini quad-copter. So I tried it out. The instructions were clear, and I enjoyed learning how to fly, but the need for fasteners, and multiple parts became aggravating. I figured, I could design and print a single body to hold all of the components, so why not?!
 
-Jekyll also offers powerful support for code snippets:
+## Iteration 1
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+In the beginning I wanted to create a solid body that held the 32 bit Micro SciSky controller and all four of the Hubsan X4 H107c 8.5mm Motors. Once I was comfortable with the base, I knew I would add in the other component slots (battery and camera). I created the base to have an open bottom and rubber band straps, so that no tape was needed. 
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+![Iteration 1]({{site.baseurl}}/assets/img/Copter_Body_V1.PNG)
