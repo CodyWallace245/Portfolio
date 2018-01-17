@@ -9,6 +9,7 @@ tags: [Drone,Robotics,Robots,Design,3D-Printing,]
 
 <iframe width="640" height="480" src="https://poly.google.com/view/3DFkovwO_4t/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
 
+
 I started out looking for a new project to get into and I had recently taken a Coursera course on Aerial Robotics, so I was interested in getting something drone-related started. I came across this [great instructable](https://www.thingiverse.com/thing:1221911) on Thingiverse for printing and setting up a mini quad-copter. So I tried it out. The instructions were clear, and I enjoyed learning how to fly, but the need for fasteners, and multiple parts became aggravating. I figured, I could design and print a single body to hold all of the components, so why not?!
 
 ## Iteration 1
