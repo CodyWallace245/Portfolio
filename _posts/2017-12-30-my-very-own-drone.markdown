@@ -2,8 +2,8 @@
 layout: post
 title: "Creating my "Very Own Drone""
 date: 2017-12-30 20:45:00 
-description: This is my very first, all-in-one drone. There are other models out there, that require fasteners, or components that aren't essentials, so I aimed to fix that!
-img:  Copter_Assembly_Final_Render.png
+description: There are other models out there, that require fasteners, or components that aren't essentials, so I aimed to fix that!
+img: Copter_Assembly_Final_Render.png
 tags: [Drone,Robotics,Robots,Design,3D-Printing,]
 ---
 
