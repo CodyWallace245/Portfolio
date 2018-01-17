@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Creating my "Very Own Drone""
+title: "Creating a 7mm micro quad copter"
 date: 2017-12-30 20:45:00 
 description: There are other models out there, that require fasteners, or components that aren't essentials, so I aimed to fix that!
 img: Copter_Assembly_Final_Render.png
