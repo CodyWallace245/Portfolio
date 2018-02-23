@@ -11,11 +11,17 @@ I started out looking for a new project to get into and I had recently taken a C
 
 I started out with these components:
 [Micro Scisky 32bit Microcontroller](https://www.banggood.com/Micro-Scisky-32bits-Brushed-Flight-Control-Board-Built-in-FlySky-Compatible-RX-For-DIY-Micro-Frame-p-1093312.html?rmmds=myorder&cur_warehouse=CN)
+
 [3.7V 500mAh Battery x2]()
+
 [Battery Connectors](https://www.banggood.com/Wholesale-Walkera-Hubsan-X4-Eachine-H8-1-to-5-Balance-Charging-Cable-For-3_7V-Battery-p-68437.html?rmmds=myorder&cur_warehouse=CN)
+
 [Brushed DC Motors (2 packs of 2)](https://www.banggood.com/2-X-8x20mm-Motor-For-Hubsan-X4-H107C-H107D-RC-Quadcopter-p-87683.html?rmmds=myorder&cur_warehouse=CN)
+
 [Ladybird Propellors (1 pack of 4)](https://www.banggood.com/Wholesale-3-Set-Walkera-QR-Ladybird-Spare-Parts-Main-Blades-Propellers-QR-Ladybird-Z-01-p-47127.html?rmmds=myorder&cur_warehouse=CN)
+
 [Battery Charger](https://www.banggood.com/X6-6-In-1-Charger-For-Hubsan-X4-WLtoys-UDI-JXD-JJRC-Syma-JXD-p-965757.html?rmmds=myorder&cur_warehouse=CN)
+
 [FlySky FS-i6 2.4G RC Transmitter](https://www.banggood.com/FlySky-FS-i6-2_4G-6CH-AFHDS-RC-Transmitter-With-FS-iA6B-Receiver-p-983537.html?rmmds=myorder&cur_warehouse=CN)
 
 I also purchased the following components (although they weren't used until iteration 3):
@@ -34,8 +40,8 @@ After
 
 
 
+## Iteration 3
 
-
-
+Iteration 3 was the beginning of the end for the project.
 
 <iframe width="640" height="480" src="https://poly.google.com/view/3DFkovwO_4t/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
