@@ -10,6 +10,7 @@ tags: [Drone,Robotics,Robots,Design,3D-Printing,]
 I had recently taken a Coursera course on Aerial Robotics, so I was interested in getting something drone-related started. There are some awesome setups for micro quad copters out there. The instructions for most of them were clear, but the need for fasteners, and multiple parts seemed aggravating. I figured, I could design and print a single body to hold all of the components, so I did. 
 
 I started out with these components:
+
 [Micro Scisky 32bit Microcontroller](https://www.banggood.com/Micro-Scisky-32bits-Brushed-Flight-Control-Board-Built-in-FlySky-Compatible-RX-For-DIY-Micro-Frame-p-1093312.html?rmmds=myorder&cur_warehouse=CN)
 
 [3.7V 500mAh Battery x2]()
@@ -25,6 +26,7 @@ I started out with these components:
 [FlySky FS-i6 2.4G RC Transmitter](https://www.banggood.com/FlySky-FS-i6-2_4G-6CH-AFHDS-RC-Transmitter-With-FS-iA6B-Receiver-p-983537.html?rmmds=myorder&cur_warehouse=CN)
 
 I also purchased the following components (although they weren't used until iteration 3):
+
 First Person View Goggles
 
 
