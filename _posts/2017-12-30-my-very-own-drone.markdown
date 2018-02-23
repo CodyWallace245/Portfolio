@@ -7,7 +7,7 @@ img: Copter_Assembly_Final_Render.png
 tags: [Drone,Robotics,Robots,Design,3D-Printing,]
 ---
 
-I started out looking for a new project to get into and I had recently taken a Coursera course on Aerial Robotics, so I was interested in getting something drone-related started. There are some awesome setups for micro quad copters out there. The instructions for most of them were clear, but the need for fasteners, and multiple parts seemed aggravating. I figured, I could design and print a single body to hold all of the components, so I did. 
+I had recently taken a Coursera course on Aerial Robotics, so I was interested in getting something drone-related started. There are some awesome setups for micro quad copters out there. The instructions for most of them were clear, but the need for fasteners, and multiple parts seemed aggravating. I figured, I could design and print a single body to hold all of the components, so I did. 
 
 I started out with these components:
 [Micro Scisky 32bit Microcontroller](https://www.banggood.com/Micro-Scisky-32bits-Brushed-Flight-Control-Board-Built-in-FlySky-Compatible-RX-For-DIY-Micro-Frame-p-1093312.html?rmmds=myorder&cur_warehouse=CN)
