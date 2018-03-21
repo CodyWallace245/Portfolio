@@ -45,7 +45,7 @@ In the beginning I wanted to create a solid body that held the 32 bit Micro SciS
 
 ## Iteration 3
 
-![Iteration 3]({{site.baseurl}}/assets/img/Copter_Body_V3.PNG)
+![Iteration 3]({{site.baseurl}}/assets/img/Copter_ Body_V3.PNG)
 
 Iteration 3 was the model that I decided to finish with, it has a good balance of structure and weight - so I had to prepare it for printing. I manually added supports to the arches and overhangs so that the model would print well on my Monoprice select mini. The total print time is about 3 hours, so if anything was to happen to the model, I could just reprint and reassemble. Reassembly takes about 5 minutes and all of the components fit quite nicely together.
 
