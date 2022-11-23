@@ -17,17 +17,33 @@ TIR Targets were designed to catch your eye, be easily placed anywhere in or on 
 -> Picture of the bells
 -> Picture of the targets + colors
 
-This project started with simple designs that in retrospect, look quite awful - but hey you start somewhere.
+## Iteration 1
+
+This project started with simple designs that, in retrospect, look quite awful - but hey you start somewhere.
+
+As I iterated on the targets, I wanted to make something that was well-built, but also allowed me to add bells or attachments to the target. I experimented with 45 degree holes that would require inserts into the mold, this would allow me to clip chains into the holes and the chains would rattle like a basketball net.
+
+This just wasn't professional enough and it really didnt make enough sound.
 
 ![Iteration 1]({{site.baseurl}}/assets/vids/ezgif.com-gif-maker (5).gif)
 
-As I iterated on the targets, I went through different material choices. 
+## Iteration 2
 
-I tested Shore Hardness 30 Silicone - nope that's not sturdy enough.
+Iteration 2 really started to focus on making something that allowed attachments, but realistically, these holes were way too small, and they still required 8 pins to be inserted into the mold, then removed before the mold could open. This just wasn't going to work, but the idea was getting cleaner.
 
 ![Iteration 2]({{site.baseurl}}/assets/vids/ezgif.com-gif-maker (6).gif)
 
-I tested Shore Hardness 70 Silicone - that's the right feel, but if it gets bent in a bag will it break in two?
+## Iteration 3
+
+I began to look for different ways to make through-holes in products, I came across some manufacturing videos on injection molded plastic components. 
+
+![Shutoffs 1]({{site.baseurl}}/assets/img/TIR-Targets/Shutoffs.jpg)
+
+![Shutoffs 2]({{site.baseurl}}/assets/img/TIR-Targets/Shutoffs-2.jpg)
+
+This design to produce through holes in this manner is called "shutoffs". Essentially, the material, once injected, flows over the top of a single pillar, but not around the sides, and once that pillar is removed there is a perpendicular hole. This is exactly what I wanted to produce, this way, the target would have perpendicular holes that allowed me to attach or remove a wire or elastic. I was a bit skeptical, this works for injection molded plastic, but how would I form these at home? I had to get creative...
+
+
 
 ![Iteration 3]({{site.baseurl}}/assets/vids/ezgif.com-gif-maker (9).gif)
 
