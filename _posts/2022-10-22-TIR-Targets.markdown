@@ -77,7 +77,7 @@ And now - the target is starting to look a lot better. The shutoffs are appropri
 
 It's time to fix this up - a big redesign began, altering the number of strapping holes created a more streamlined user workflow. 3 straps are all that are required to hold the target snugly to a fix point, so remove 5 holes, put them all in a line so that the user has clear indication of how to use and place the target. shutoffs are placed appropriately contouring the cosmetic divot, cosmetic divots were added to the outside of the target contouring its new shape and a full concentric circle was added to pay homage to the dartboard target style we all know and think of when you say "target".
 
-The mold began to improve drastically, ejector pin holes were added to the bottom portion of the mold, and hand grips were added as well. That way, when the target is getting removed, I have something to hold onto and press into the table.
+The mold began to improve drastically, ejector pin holes were added to the bottom portion of the mold, and hand grips were added as well. That way, when the mold is being separated, I have something to hold onto and press into the table.
 
 ![Final Mold]({{site.baseurl}}/assets/img/TIR Targets/Finalmoldbot.jpg)
 ![Final Mold]({{site.baseurl}}/assets/img/TIR Targets/Finalmoldtop.jpg)
@@ -88,4 +88,27 @@ The mold began to improve drastically, ejector pin holes were added to the botto
 
 The target had finally made it to a stage where I felt like it embodied the goal. A target that can hang anywhere, when it gets hit bells will rattle and it's not terribly hard to setup. It's time to go to production... right?
 
+I wasn't sure the right material, Silicone meets the hot and cold temperature needs - if I want to sell these targets to hockey players the target needs to not degrade severely around 32 degrees F and if a lacrosse player wants to use them in the summer on the turf, 110 degrees F is a likely scenario. But then again, a lacrosse ball moving at 85mph may destroy silicone...
+
+I started thinking of some other products that are used year round and landed on Frisbee golf discs, these things hit trees at >85mph, they're used year round and they're usually pretty durable. What about getting some detailing onto the targets? I could go the traditional frolf route and foil stamp them maybe? But they're divots, foil stamps are usually performed on perfectly flat surfaces.
+
+I talked with an overseas frolf manufacturer and floated the idea by them, they provided me some insight into materials and even sent me some samples, I responded as soon as I got the samples and which material was the best, but then didnt hear from them again. 30 Days later I let them know i was going with a Silicone manufacturer and man he wasn't pleased. I'm glad I did though, as I had been talking with this silicone manufacturer for nearly 3 months and they helped me better understand injection molding and what options were available to get the product made.  More importantly, they were punctual and professional - I'd get at least one response per day and they always answered my questions.
+
+Before really getting into the negotiation, I used the protolabs part optimizer to check the manufacturability. I figured if they can simulate plastic parts being injection molded, it would be similar or the same to silicone. It turned out, I was 5-6mm too thick, the inside of the target would be difficult to harden and my ejection angles were off. Overall - it received a 7/100 on the manufacturability scale. I simply took 5mm out of the center of the target, re-worked all my angled components to flow nicely and rechecked. This time, 96/100 manufacturability. I was in business.
+
+## Sample Mold
+
+$600 was all it cost to get the single shot mold created. it took about 2 weeks for the mold to get made, and cost roughly $50 per sample. We started to work on some of the issues - getting the artwork onto the target required two separate steps. Drip dyeing and screen printing. Screen printing was pretty easy, but drip dying presented an issue. The center circle where the shutoffs passed through leaked dye, so we needed to adjust the mold. fortunately, it was a simple fix - create lines that added to the part, these would create small dams where the drip dye could rest until the liquid evaporated. 
+
+![Final Mold]({{site.baseurl}}/assets/img/TIR Targets/Screen-print-drip-dye.jpg)
+
+Phew - we made it, I was nervous I'd need an entirely new mold, thankfully the fix was simple and the work I put in to make my own molds at home was paying off.
+
+Parts were decent quality, there was machine marks, bubbles in the drip dye and the the screen print had ejector pin marks. Still, good enough to move forward.
+
+## Production Mold
+
+$1900 more and the mold was complete - a four shot mold was created and we were off to production. Another set of samples was sent and overall quality improved, the drip dyeing was substantially improved, what was previously 20-30 bubbles in the drip dye, was now 1 or 2. The machine marks were gone on the outside and the ejector pin marks were nearly non-existent. I was elated. This was such a huge improvement and now I could start really testing the product.
+
+## Beta Testers
 
