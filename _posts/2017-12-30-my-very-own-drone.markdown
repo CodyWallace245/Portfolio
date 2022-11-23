@@ -63,3 +63,7 @@ Iteration 3 was the model that I decided to finish with, it has a good balance o
 
 ![Iteration 3 with supports]({{site.baseurl}}/assets/img/Copter_Body_V3.1.PNG)
 
+Maiden Voyage!
+
+![Iteration 3 with supports]({{site.baseurl}}/assets/vids/ezgif.com-gif-maker (4).gif)
+
