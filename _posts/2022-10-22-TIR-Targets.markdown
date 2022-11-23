@@ -29,7 +29,7 @@ This just wasn't professional enough and it really didnt make enough sound.
 
 ## Iteration 2
 
-Iteration 2 really started to focus on making something that allowed attachments, but realistically, these holes were way too small, and they still required 8 pins to be inserted into the mold, then removed before the mold could open. This just wasn't going to work, but the idea was getting cleaner.
+Iteration 2 really started to focus on making something that allowed attachments, but realistically, these holes were way too small, and they still required 8 pins to be inserted into the mold, then removed before the mold could open. This just wasn't going to work, but the idea was getting more defined.
 
 ![Iteration 2]({{site.baseurl}}/assets/vids/ezgif.com-gif-maker (6).gif)
 
@@ -41,9 +41,13 @@ I began to look for different ways to make through-holes in products, I came acr
 
 ![Shutoffs 2]({{site.baseurl}}/assets/img/TIR Targets/Shutoffs 2.jpg)
 
-This design to produce through holes in this manner is called "shutoffs". Essentially, the material, once injected, flows over the top of a single pillar, but not around the sides, and once that pillar is removed there is a perpendicular hole. This is exactly what I wanted to produce, this way, the target would have perpendicular holes that allowed me to attach or remove a wire or elastic. I was a bit skeptical, this works for injection molded plastic, but how would I form these at home? I had to get creative...
+To produce through holes in this manner is called "shutoffs". Essentially, the material, once injected, flows over the top of a single pillar, but not around the sides, and once that pillar is removed there is a perpendicular hole. This is exactly what I wanted to produce. This way the target would have perpendicular holes that allowed me to attach or remove a wire or elastic. I was a bit skeptical, this works for injection molded plastic, but how would I form these at home? I had to get creative...
 
+There had to be a break point near the center of the target, to allow a large portion of the target to be free once it had hardened and i removed one half, but the shutoffs had to pass entirely through the mold. If they didnt, then there would be leakage and the perpendicular holes wouldnt form properly, so both halves needed to be modified to fit each other, while also have separate separation points.
 
+![Circle Mold]({{site.baseurl}}/assets/img/TIR Targets/Circlemoldshutoffs.jpg)
+
+![Circle Mold]({{site.baseurl}}/assets/img/TIR Targets/Circlemoldshutoffstop.jpg)
 
 ![Iteration 3]({{site.baseurl}}/assets/vids/ezgif.com-gif-maker (9).gif)
 
