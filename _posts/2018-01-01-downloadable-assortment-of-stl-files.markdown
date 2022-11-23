@@ -7,4 +7,4 @@ img: js-1.png
 tags: [Js, Conference] # add tag
 ---
 
-![Iteration 1]({{site.baseurl}}/assets/img/Copter_Body_V1.PNG)
+![Quadcopter Body]({{site.baseurl}}/assets/img/Copter_Body_V1.PNG)
