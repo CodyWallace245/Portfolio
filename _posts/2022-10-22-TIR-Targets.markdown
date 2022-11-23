@@ -21,4 +21,12 @@ This project started with simple designs that in retrospect, look quite awful - 
 
 -> First images of targets.
 
-As the 
+As I iterated on the targets, I went through different material choices. 
+
+I tested Shore Hardness 30 Silicone - nope that's not sturdy enough.
+
+-> Image/gif of 30 SH target
+
+I tested Shore Hardness 70 Silicone - that's the right feel, but if it gets bent in a bag will it break in two?
+
+-> Image/gif of 70 SH target
