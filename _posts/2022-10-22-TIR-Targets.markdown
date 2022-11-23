@@ -19,14 +19,20 @@ TIR Targets were designed to catch your eye, be easily placed anywhere in or on 
 
 This project started with simple designs that in retrospect, look quite awful - but hey you start somewhere.
 
--> First images of targets.
+![Iteration 1]({{site.baseurl}}/assets/vids/ezgif.com-gif-maker (5).gif)
 
 As I iterated on the targets, I went through different material choices. 
 
 I tested Shore Hardness 30 Silicone - nope that's not sturdy enough.
 
--> Image/gif of 30 SH target
+![Iteration 2]({{site.baseurl}}/assets/vids/ezgif.com-gif-maker (6).gif)
 
 I tested Shore Hardness 70 Silicone - that's the right feel, but if it gets bent in a bag will it break in two?
 
--> Image/gif of 70 SH target
+![Iteration 3]({{site.baseurl}}/assets/vids/ezgif.com-gif-maker (9).gif)
+
+![Iteration 4]({{site.baseurl}}/assets/vids/ezgif.com-gif-maker (8).gif)
+
+![Iteration 5]({{site.baseurl}}/assets/vids/ezgif.com-gif-maker (7).gif)
+
+
