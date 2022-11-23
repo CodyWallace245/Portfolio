@@ -47,7 +47,13 @@ There had to be a break point near the center of the target, to allow a large po
 
 ![Circle Mold]({{site.baseurl}}/assets/img/TIR Targets/Circlemoldshutoffs.jpg)
 
+The image above shows the bottom portion of the mold, which has these pillars that the material flows over the top, but not the sides.
+
 ![Circle Mold]({{site.baseurl}}/assets/img/TIR Targets/Circlemoldshutoffstop.jpg)
+
+The image above shows the top portion of the mold, which has holes that fit the shutoffs exactly and a little extra space over the top of the holes to allow material to flow over it.
+
+And then - here we are. a real shutoff, too bad the material was ridiculously soft. also, look at those bubbles - I really need to find a way to get the air out of my mold.
 
 ![Iteration 3]({{site.baseurl}}/assets/vids/ezgif.com-gif-maker (9).gif)
 
