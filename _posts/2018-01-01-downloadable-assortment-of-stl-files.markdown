@@ -8,3 +8,5 @@ tags: [Js, Conference] # add tag
 ---
 
 ![Quadcopter Body]({{site.baseurl}}/assets/img/Copter_Body_V1.PNG)
+
+![Quadcopter Body2]({{site.baseurl}}/assets/img/Copter_%20Body_V3.PNG)
