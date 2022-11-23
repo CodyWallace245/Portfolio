@@ -53,9 +53,21 @@ The image above shows the bottom portion of the mold, which has these pillars th
 
 The image above shows the top portion of the mold, which has holes that fit the shutoffs exactly and a little extra space over the top of the holes to allow material to flow over it.
 
-And then - here we are. a real shutoff, too bad the material was ridiculously soft. also, look at those bubbles - I really need to find a way to get the air out of my mold.
+And then - here we are. a real shutoff, too bad the material was ridiculously soft and the shutoffs are way too close to the strap connection points and they're also a little thin. also, look at those bubbles - I really need to find a way to get the air out of my mold.
 
 ![Iteration 3]({{site.baseurl}}/assets/vids/ezgif.com-gif-maker (9).gif)
+
+Time to get back to designing, It was now time to address the bubbles and thickness of the shutoffs. Also, the last mold was ridiculously hard to separate, maybe there is some alternative way to gain leverage and separate them.
+
+![Circle Mold Vents]({{site.baseurl}}/assets/img/TIR Targets/Circlemoldwventsbot.jpg)
+
+The above image shows the bottom of the mold, it's definitely an improvement. the shutoffs contour the cosmetic dip in the front of the target, and they're much thicker now. it's almost exactly 12" in diameter, which makes purchasing a wire easier, there are some 45 degree holes on the backside, which allows the mold to be pulled apart with string (this didn't work the way i expected) - overall a solid improvement.
+
+![Circle Mold Vents]({{site.baseurl}}/assets/img/TIR Targets/Circlemoldwventstop.jpg)
+
+The above image shows the top of the mold vent holes were added to the sides and vent holes were added to the tops of the shutoffs - that way i could use a syringe and inject material through those holes and really verify that there weren't as many holes where there needed to be structural stability for testing.
+
+And now - the target is starting to look a lot better. The shutoffs are appropriately sized, only one of the shutoffs has a major air hole, and overall air flow improved. still though - there's room for improvement.
 
 ![Iteration 4]({{site.baseurl}}/assets/vids/ezgif.com-gif-maker (8).gif)
 
