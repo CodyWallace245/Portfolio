@@ -3,7 +3,7 @@ layout: post
 title: Engineering Projects
 date: 2018-01-1 00:00:00 +0300
 description: Projects rooted in engineering
-img: js-1.png 
+img: Copter_Assembly_Final_Render.png 
 tags: [Js, Conference] # add tag
 ---
 
