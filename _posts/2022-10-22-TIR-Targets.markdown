@@ -55,7 +55,9 @@ The image above shows the top portion of the mold, which has holes that fit the 
 
 And then - here we are. a real shutoff, too bad the material was ridiculously soft and the shutoffs are way too close to the strap connection points and they're also a little thin. also, look at those bubbles - I really need to find a way to get the air out of my mold.
 
-![Iteration 3]({{site.baseurl}}/assets/vids/ezgif.com-gif-maker (9).gif)
+## Iteration 4
+
+![Iteration 4]({{site.baseurl}}/assets/vids/ezgif.com-gif-maker (9).gif)
 
 Time to get back to designing, It was now time to address the bubbles and thickness of the shutoffs. Also, the last mold was ridiculously hard to separate, maybe there is some alternative way to gain leverage and separate them.
 
@@ -71,6 +73,8 @@ And now - the target is starting to look a lot better. The shutoffs are appropri
 
 ![Iteration 4]({{site.baseurl}}/assets/vids/ezgif.com-gif-maker (8).gif)
 
+## Iteration 5
+
 It's time to fix this up - a big redesign began, altering the number of strapping holes created a more streamlined user workflow. 3 straps are all that are required to hold the target snugly to a fix point, so remove 5 holes, put them all in a line so that the user has clear indication of how to use and place the target. shutoffs are placed appropriately contouring the cosmetic divot, cosmetic divots were added to the outside of the target contouring its new shape and a full concentric circle was added to pay homage to the dartboard target style we all know and think of when you say "target".
 
 The mold began to improve drastically, ejector pin holes were added to the bottom portion of the mold, and hand grips were added as well. That way, when the target is getting removed, I have something to hold onto and press into the table.
@@ -79,5 +83,9 @@ The mold began to improve drastically, ejector pin holes were added to the botto
 ![Final Mold]({{site.baseurl}}/assets/img/TIR Targets/Finalmoldtop.jpg)
 
 ![Iteration 5]({{site.baseurl}}/assets/vids/ezgif.com-gif-maker (7).gif)
+
+## Production?
+
+The target had finally made it to a stage where I felt like it embodied the goal. A target that can hang anywhere, when it gets hit bells will rattle and it's not terribly hard to setup. It's time to go to production... right?
 
 
