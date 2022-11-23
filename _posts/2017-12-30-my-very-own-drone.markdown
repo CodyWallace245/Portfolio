@@ -43,6 +43,10 @@ In the beginning I wanted to create a solid body that held the 32 bit Micro SciS
 
 ![Iteration 2]({{site.baseurl}}/assets/img/Copter_Body_V2.PNG)
 
+This body, was more rigid. In the previous iteration, the arms of the drone bent inwards due to the force the propellors caused, and instead of creating a pull directly upwards they pulled towards the center of the copter body. To address this, I created a stabilizing circle on the outside of the core body.
+
+![Iteration 2]({{site.baseurl}}/assets/img/IMG_4592.JPG)
+
 ## Iteration 3
 
 ![Iteration 3]({{site.baseurl}}/assets/img/Copter_ Body_V3.PNG)
