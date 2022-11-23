@@ -45,9 +45,6 @@ This body, was more rigid. In the previous iteration, the arms of the drone bent
 
 ![Iteration 2]({{site.baseurl}}/assets/img/Copter_Body_V2.PNG)
 
-Fully assembled and ready to go!
-
-![Iteration 2]({{site.baseurl}}/assets/img/IMG_4592.JPG)
 
 ## Iteration 3
 
@@ -57,7 +54,7 @@ Iteration 3 began to use the vertical space available in the center. This allowe
 
 Final assembly!
 
-![Iteration 3]({{site.baseurl}}/assets/img/IMG_4593.JPG)
+![Iteration 3]({{site.baseurl}}/assets/img/IMG_4592.JPG)
 
 Iteration 3 was the model that I decided to finish with, it has a good balance of structure and weight - so I had to prepare it for printing. I manually added supports to the arches and overhangs so that the model would print well on my Monoprice select mini. The total print time is about 3 hours, so if anything was to happen to the model, I could just reprint and reassemble. Reassembly takes about 5 minutes and all of the components fit quite nicely together.
 
