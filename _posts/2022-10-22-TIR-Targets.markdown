@@ -131,3 +131,9 @@ This worked! No matter how hard we hit the target, the elastic bands were disper
 I really started to question my decisions when I realized that the rigid straps I purchased were the culprit. If there's one key takeaway from this project, it's that Minimum Viable Product (MVP) doesn't mesh with custom accessories. I recognized that if I removed the custom cam straps and the spreader bar - I was left with a silicone target and elastic unadjustable straps. This addressed a few issues and put solid limitations on the product that removed variability from how the user would setup the target.
 
 The force of the hit didnt need to be disipated onto a spreader bar, when it could just be put on the crossbars, net, fence or whatever other object the target was strapped to. This change also removed the variability from users - the cam straps had ~18" of strap and an adjustable cam lock to work with, but now they had 4 inches of elastic strap and velcro that only fits together in one location. This meant that the targets were going to be evenly distributed across the straps almost exclusively, whereas someone could make ~16" of variability from strap to strap.
+
+## Final Product
+
+![Full Assembly]({{site.baseurl}}/assets/img/TIR Targets/IMG_1515.jpg)
+
+Here we are today, TIR Targets, in all their glory - effectively providing what I wanted them to provide. There's still so much growth and change that will happen with them, but they're finally in a spot of stability. There's so much here and still so much left out. This project is on-going and will continue to grow!
