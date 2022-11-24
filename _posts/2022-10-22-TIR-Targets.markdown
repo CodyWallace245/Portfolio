@@ -104,11 +104,30 @@ $600 was all it cost to get the single shot mold created. it took about 2 weeks 
 
 Phew - we made it, I was nervous I'd need an entirely new mold, thankfully the fix was simple and the work I put in to make my own molds at home was paying off.
 
-Parts were decent quality, there was machine marks, bubbles in the drip dye and the the screen print had ejector pin marks. Still, good enough to move forward.
+Parts were decent quality, there were machine marks, bubbles in the drip dye and the the screen print had ejector pin marks. Still, good enough to move forward.
 
 ## Production Mold
 
-$1900 more and the mold was complete - a four shot mold was created and we were off to production. Another set of samples was sent and overall quality improved, the drip dyeing was substantially improved, what was previously 20-30 bubbles in the drip dye, was now 1 or 2. The machine marks were gone on the outside and the ejector pin marks were nearly non-existent. I was elated. This was such a huge improvement and now I could start really testing the product.
+$1900 more and the mold was complete - a four shot mold was created and we were off to production. Another set of samples was sent and overall quality improved. The drip dyeing was substantially improved, what was previously 20-30 bubbles in the drip dye, was now 1 or 2. The machine marks were gone on the outside and the ejector pin marks were nearly non-existent. I was elated. This was such a huge improvement and now I could start really testing the product.
 
 ## Beta Testers
 
+I had been testing the sample targets for a while, they seemed to hold up well and everything was going smoothly. Then, one day, I was doing some distance training with my dog - 50-60 feet from the dog park in a little courtyard with a couple offices nearby. One of those offices happens to be a physical trainers office and a man in a wheelchair comes out with one leg elevated. He comes over to say hi to our pup and I notice he's wearing a lacrosse windbreaker. We get to talking and it turns out he's a Major League Lacrosse player, if this isn't the stars aligning i'm not sure what is. I send him some samples a couple weeks later and he likes them, one problem... the targets are breaking in the corners. This is not good news - but at least I haven't started selling the targets yet. I begin to scramble for solutions, I've already purchased custom straps - nearly 7000 of them ($4000 worth).
+
+## Iteration 6
+
+![Straps]({{site.baseurl}}/assets/img/TIR Targets/IMG_1483.jpg)
+
+I got to heavy testing - I setup the targets with a friend of mine and we just absolutely smashed the targets. Sure enough - they were all broken by the end of it. They all had the same failure mode - Cracks in the upper corners.
+
+![Broken Target]({{site.baseurl}}/assets/img/TIR Targets/IMG_1475.jpg)
+
+I needed a solution - I experimented with the idea of a spreader bar (not that kind) often used in crane technology to disperse load on objects that have multiple contact points. I 3D printed some bars with 6 holes, and bought some elastic straps off Amazon to test the solution.
+
+![Full Assembly]({{site.baseurl}}/assets/img/TIR Targets/strapsbarelastictarget.jpg)
+
+This worked! No matter how hard we hit the target, the elastic bands were dispersing the force onto the bar, the targets were resting evenly as long as i adjusted the straps appropriately and overall it worked. Here's the issue - the bars made in aluminum were nearly ~$1.50 each in bulk, the straps were going to be ~$0.12 each in bulk, and importing metal was going to be expensive. I needed to relook at the solution, this wasn't going to be cost effective.
+
+I really started to question my decisions when I realized that the rigid straps I purchased were the culprit. If there's one key takeaway from this project, it's that Minimum Viable Product (MVP) doesn't mesh with custom accessories. I recognized that if I removed the custom cam straps and the spreader bar - I was left with a silicone target and elastic unadjustable straps. This addressed a few issues and put solid limitations on the product that removed variability from how the user would setup the target.
+
+The force of the hit didnt need to be disipated onto a spreader bar, when it could just be put on the crossbars, net, fence or whatever other object the target was strapped to. This change also removed the variability from users - the cam straps had ~18" of strap and an adjustable cam lock to work with, but now they had 4 inches of elastic strap and velcro that only fits together in one location. This meant that the targets were going to be evenly distributed across the straps almost exclusively, whereas someone could make ~16" of variability from strap to strap.
