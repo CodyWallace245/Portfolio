@@ -27,7 +27,7 @@ Designed to allow both a Desktop Metal Studio part (inner bracing part) + a Desk
 ## Generative Bike Saddle
 
 The Bike saddle was part of 1 day competition at Desktop Metal to generate designs that would be 3D printable and usable on a bike. Because the saddle would be made from metal, the overall thickness could be reduced to roughly 3mm and it would reduce overall weight and provide structural stability. Personally - I'd like my bike seat to have cushion though.
-![Bike Saddle]({{site.baseurl}}/assets/img/Smaller Designs/3D printable bike saddle)
+![Bike Saddle]({{site.baseurl}}/assets/img/Smaller Designs/3D printable bike saddle.jpg)
 
 ## Printhead Jig
 Designed to aid in printhead assembly and repair. A Desktop Metal Studio printer head fits inside and a simple dowel or 2mm hex wrench can be used to secure the head. This allowed the person assembling or repairing to easily hold the print head squarely and in place which working on it.
