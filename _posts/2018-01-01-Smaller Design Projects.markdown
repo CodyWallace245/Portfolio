@@ -7,12 +7,12 @@ img: Copter_Assembly_Final_Render.png
 tags: [Js, Conference] # add tag
 ---
 
-![Quadcopter Body]({{site.baseurl}}/assets/img/Copter_Body_V1.PNG)
+![Quadcopter Body]({{site.baseurl}}/assets/img/Smaller Designs/2 part gear body.jpg)
 
-![Quadcopter Body2]({{site.baseurl}}/assets/img/Copter_Body_V2.PNG)
+![Quadcopter Body2]({{site.baseurl}}/assets/img/Smaller Designs/3D printable wire hangers.jpg)
 
-![Quadcopter Body3]({{site.baseurl}}/assets/img/Copter_%20Body_V3.PNG)
+![Quadcopter Body3]({{site.baseurl}}/assets/img/Smaller Designs/Barber Shop Sign.jpg)
 
-![Quadcopter Body4]({{site.baseurl}}/assets/img/Copter_Body_V3.1.PNG)
+![Quadcopter Body4]({{site.baseurl}}/assets/img/Smaller Designs/3D printable wire hangers.jpg)
 
-![Quadcopter BodyRender]({{site.baseurl}}/assets/img/Copter_Assembly_Final_Render.png)
+![Quadcopter BodyRender]({{site.baseurl}}/assets/img/Smaller Designs/3D printable wire hangers.jpg)
