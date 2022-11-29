@@ -3,17 +3,18 @@ layout: post
 title: Engineering Projects
 date: 2018-01-1 00:00:00 +0300
 description: Projects rooted in engineering
-img: 3D Printable Pen (complete).jpeg
+img: 3D Printable Pen (complete).jpg
 tags: [Js, Conference] # add tag
 ---
 ## Covid swabber
 Designed at the beginning of COVID-19 outbreak in collaboration with other designers and doctors through email to help provide concepts for potential additive manufacturing solutions to aid in rapid covid testing. This concept was altered slightly and used by Formlabs to mass manufacture covid swabs.
-https://formlabs.com/covid-19-response/covid-test-swabs/
-![3D printable pen]({{site.baseurl}}/assets/img/Smaller Designs/3D printable Covid swabber.jpg)
+[Formlabs Covid Swabber Article](https://formlabs.com/covid-19-response/covid-test-swabs/)
+
+![Covid Swabber]({{site.baseurl}}/assets/img/Smaller Designs/3D printable Covid swabber.jpg)
 
 
 ## Printhead Jig
-Designed to aid in printhead assembly and repair. A Desktop Metal Studio printer head fits inside and a simple dowel or 2mm 
+Designed to aid in printhead assembly and repair. A Desktop Metal Studio printer head fits inside and a simple dowel or 2mm hex wrench can be used to secure the head. This allowed the person assembling or repairing to easily hold the print head squarely and in place which working on it.
 ![Printhead Jig]({{site.baseurl}}/assets/img/Smaller Designs/Print head assembly jig.jpg)
 
 
@@ -23,10 +24,11 @@ Designed to test knurling and two part metal designs for Desktop Metal Studio Sy
 ![3D printable pen]({{site.baseurl}}/assets/img/Smaller Designs/3D Printable Pen (Back Only).jpg)
 
 
-## 2 Part Gear Body
+## 2 Part Balance Shaft Gear
 
-Designed to allow both a Desktop Metal Studio part (inner gear) + a Desktop Metal Fiber part (outer gear) to be joined together with 8 4mm screws to form a complete product.
+Designed to allow both a Desktop Metal Studio part (inner bracing part) + a Desktop Metal Fiber part (outer geared part ) to be joined together with 9 4mm screws to form a complete product.
 ![2 Part Gear Body]({{site.baseurl}}/assets/img/Smaller Designs/2 part gear body.jpg)
+![2 Part Gear Body]({{site.baseurl}}/assets/img/Smaller Designs/Balance Gear inner.jpg)
 
 ## 3D Printable Wire Hangers
 
