@@ -7,9 +7,14 @@ img: 3D Printable Pen (complete).jpg
 tags: [Js, Conference] # add tag
 ---
 ## Covid swabber
-![3D printable pen]({{site.baseurl}}/assets/img/Smaller Designs/3D printable Covid swabber.jpg)
 Designed at the beginning of COVID-19 outbreak in collaboration with other designers and doctors through email to help provide concepts for potential additive manufacturing solutions to aid in rapid covid testing. This concept was altered slightly and used by Formlabs to mass manufacture covid swabs.
 https://formlabs.com/covid-19-response/covid-test-swabs/
+![3D printable pen]({{site.baseurl}}/assets/img/Smaller Designs/3D printable Covid swabber.jpg)
+
+
+## Printhead Jig
+Designed to aid in printhead assembly and repair. A Desktop Metal Studio printer head fits inside and a simple dowel or 2mm 
+![Printhead Jig]({{site.baseurl}}/assets/img/Smaller Designs/Print head assembly jig.jpg)
 
 
 ## 3D Printable Pen Body
@@ -31,6 +36,5 @@ Designed to solve the issue of wire hanging. These little clips go at any corner
 Designed to work on combining animation + CAD design. 
 ![Barber Shop Sign]({{site.baseurl}}/assets/img/Smaller Designs/Barber Shop Sign.jpg)
 
-![Quadcopter Body4]({{site.baseurl}}/assets/img/Smaller Designs/3D printable wire hangers.jpg)
 
 ![Quadcopter BodyRender]({{site.baseurl}}/assets/img/Smaller Designs/3D printable wire hangers.jpg)
