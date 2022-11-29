@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Engineering Projects
+title: Engineering Design Projects
 date: 2018-01-1 00:00:00 +0300
 description: Projects rooted in engineering
 img: 3DPrintablePenlarge.jpg
