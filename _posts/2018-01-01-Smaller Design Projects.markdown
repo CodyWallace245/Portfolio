@@ -3,7 +3,7 @@ layout: post
 title: Engineering Projects
 date: 2018-01-1 00:00:00 +0300
 description: Projects rooted in engineering
-img: 3D Printable Pen (complete).jpg
+img: 3D Printable Pen (complete).jpeg
 tags: [Js, Conference] # add tag
 ---
 ## Covid swabber
