@@ -1,1 +1,15 @@
+---
+layout: post
+title: "Chess Set"
+date: 2022-10-22 20:45:00 
+description: A completely unique chess set!
+img: IMG_1528.jpg
+tags: [Design,3D-Printing,Engineering]
+---
+
+Designing a Chess Set has been one of my goals for a long time. I've tried a bunch of different design variations to finally come to a very classical looking chess set.
+
+
+
+## Iteration 1
 
