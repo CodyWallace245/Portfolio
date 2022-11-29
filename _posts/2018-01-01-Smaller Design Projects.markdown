@@ -20,6 +20,8 @@ Designed to aid in printhead assembly and repair. A Desktop Metal Studio printer
 ## 3D Printable Pen Body
 Designed to test knurling and two part metal designs for Desktop Metal Studio System.
 ![3D printable pen]({{site.baseurl}}/assets/img/Smaller Designs/3D Printable Pen (complete).jpg)
+![3D printable pen]({{site.baseurl}}/assets/img/Smaller Designs/3D Printable Pen (Back Only).jpg)
+
 
 ## 2 Part Gear Body
 
