@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Engineering Design Projects
+title: Design Focused Projects
 date: 2018-01-1 00:00:00 +0300
 description: Projects rooted in design
 img: RingRender.png
