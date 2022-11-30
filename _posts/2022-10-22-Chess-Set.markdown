@@ -51,7 +51,7 @@ This was the last set - designed so that each piece fit functionally in the play
 ## King
 ![Iteration 6]({{site.baseurl}}/assets/img/Chess Set/Kinggif.gif)
 
-The King was a simple piece, the thumb and forefinger would rest just below his hat. His hat brim had a slight puff on the edges before contouring downwards to the center where the cross spouted out. The puffed hat created the clothy appearance that a traditional kings had would make. The piece has a harsher arc from base to top creating a more masculine piece
+The King was a simple piece, the thumb and forefinger would rest just below his hat. His hat brim had a slight puff on the edges before contouring downwards to the center where the cross spouted out. The puffed hat created the clothy appearance that a traditional king/queen crown would make. The piece has a harsher arc from base to top creating a more masculine piece
 
 ## Queen
 ![Iteration 6]({{site.baseurl}}/assets/img/Chess Set/Queengif.gif)
