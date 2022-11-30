@@ -24,15 +24,18 @@ Designed to show off the capabilities of the Desktop Metal Studio System, this p
 ![Screw Rook]({{site.baseurl}}/assets/img/Smaller Designs/3D printable screw rook.jpg)
 ![Screw Rook]({{site.baseurl}}/assets/img/Smaller Designs/ezgif.com-gif-maker (11).gif)
 
+## Chain Mesh
+This chain mesh was designed to be 3D printed in place in a single print. Many versions of this mesh were designed, but this one felt the best to hold.
+
+![Chain Mesh]({{site.baseurl}}/assets/img/Smaller Designs/3D printable chain mesh.jpg)
+![Chain Mesh]({{site.baseurl}}/assets/img/Smaller Designs/ezgif.com-gif-maker (12).gif)
+
 ## 5 Part Ring
 This ring set is designed to be worn all together, the 2 of the 3 unique rings are mirrored and the last is the center piece. The central theme dictates the contour types that the other 2 unique rings share.
 
 ![5 Part Ring]({{site.baseurl}}/assets/img/Smaller Designs/3D printable 5 part ring.jpg)
 
-## Chain Mesh
-This chain mesh was designed to be 3D printed in place in a single print. Many versions of this mesh were designed, but this one flowed the best.
 
-![Chain Mesh]({{site.baseurl}}/assets/img/Smaller Designs/3D printable chain mesh.jpg)
 
 ## Packaging Concept for TIR Targets
 The packaging was designed to the TIR targets height and width, allowing extra space to add straps. The concept used a minimalist design similar to drawings sent to manufacturers.
