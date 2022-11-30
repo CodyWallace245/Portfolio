@@ -13,6 +13,7 @@ While designing a chess set isn't directly rooted in engineering, it really requ
 Each piece has to be within a certain scale of the others, if they aren't it looks strange. If you've ever played chess with very unique pieces, you know that after 10 turns it gets a little difficult to determine which piece is which. This same thing can happen with pieces that are not scaled properly, a pawn can easily look like a bishop from the top-down view.
 
 Fortunately, there are some guidelines provided by FIDE on regulation chess pieces.
+
 ![Iteration 1]({{site.baseurl}}/assets/img/Chess Set/Chesspieceguides.jpg)
 
 The heights were really useful in determining scale, but the bases should really be the same size to create a cohesive look and feel.
