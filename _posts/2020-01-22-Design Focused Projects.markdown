@@ -38,3 +38,9 @@ Designed to show off the capabilities of the Desktop Metal Studio System, this p
 The packaging was designed to the TIR targets height and width, allowing extra space to add straps. The concept used a minimalist design similar to drawings sent to manufacturers.
 
 ![Packaging Concept]({{site.baseurl}}/assets/img/Smaller Designs/TIR Target Packaging Concept.jpg)
+
+## Barber Shop Sign
+
+Designed to work on combining animation + CAD design. 
+
+![Barber Shop Sign]({{site.baseurl}}/assets/img/Smaller Designs/Barber Shop Sign.jpg)
