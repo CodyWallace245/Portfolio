@@ -13,10 +13,6 @@ TIR Targets were designed to really address a need. In wall ball, you choose a s
 
 TIR Targets were designed to catch your eye, be easily placed anywhere in or on the net, and provide sufficient feedback to let you know you really hit the mark.
 
--> Picture of the straps
--> Picture of the bells
--> Picture of the targets + colors
-
 ## Iteration 1
 
 This project started with simple designs that, in retrospect, look quite awful - but hey you start somewhere.
