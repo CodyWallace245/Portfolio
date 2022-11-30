@@ -10,7 +10,10 @@ tags: [Design,3D-Printing,Engineering]
 Designing a Chess Set has been one of my goals for a long time. I've tried a bunch of different design variations to finally come to a very classical looking chess set.
 While designing a chess set isn't directly rooted in engineering, it really requires a lot of design work. Most pieces are easily rotated after they've been designed, but the knight is the quite unique.
 
- Each piece has to be within a certain scale of the others, if they aren't it looks strange. If you've ever played chess with very unique pieces, you know that after 10 turns it gets a little difficult to determine which piece is which. This same thing can happen with pieces that are not scaled properly. 
+ Each piece has to be within a certain scale of the others, if they aren't it looks strange. If you've ever played chess with very unique pieces, you know that after 10 turns it gets a little difficult to determine which piece is which. This same thing can happen with pieces that are not scaled properly, a pawn can easily look like a bishop from the top-down view.
+
+Fortunately, there are some guidelines provided by FIDE on this.
+![Iteration 1]({{site.baseurl}}/assets/img/Chess Set/Chesspieceguides.jpg)
 
 
 ## Iteration 1
