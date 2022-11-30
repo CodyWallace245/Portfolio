@@ -8,7 +8,7 @@ tags: [Design,3D-Printing,Engineering]
 ---
 
 Designing a Chess Set has been one of my goals for a long time. I've tried a bunch of different design variations to finally come to a very classical looking chess set.
-
+While designing a chess set isn't directly rooted in engineering, it really requires a lot of design work. Most pieces are easily rotated after they've been designed, but the knight is the quite unique. Designing a horse is on another level.
 
 
 ## Iteration 1
