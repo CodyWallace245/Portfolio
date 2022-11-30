@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Chess Set"
-date: 2022-10-22 20:45:00 
+date: 2022-10-30 20:45:00 
 description: A completely unique chess set!
 img: ChessSetGold.jpg
 tags: [Design,3D-Printing,Engineering]
