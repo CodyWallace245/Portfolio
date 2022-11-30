@@ -3,7 +3,7 @@ layout: post
 title: "Chess Set"
 date: 2022-10-22 20:45:00 
 description: A completely unique chess set!
-img: IMG_1528.jpg
+img: Chess Set Gold.jpg
 tags: [Design,3D-Printing,Engineering]
 ---
 
