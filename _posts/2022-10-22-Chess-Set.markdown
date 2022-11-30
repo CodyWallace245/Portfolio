@@ -43,20 +43,26 @@ This was the last set - designed so that each piece fit functionally in the play
 
 ## King
 ![Iteration 6]({{site.baseurl}}/assets/img/Chess Set/Kinggif.gif)
+The King was a simple piece, the thumb and forefinger would rest just below his hat. His hat brim had a slight puff on the edges before contouring downwards to the center where the cross spouted out. The puffed hat created the clothy appearance that a traditional kings had would make. The piece has a harsher arc from base to top creating a more masculine piece
 
 ## Queen
 ![Iteration 6]({{site.baseurl}}/assets/img/Chess Set/Queengif.gif)
+The Queen was another simple piece, again, the thumb and forefinger would rest just below her hat. The piece had a more central arc to create a more hourglass shape and the crown has small edges to catch light and create a textured feel - flat in the center to display that it really is a crown.
 
 ## Bishop
 ![Iteration 6]({{site.baseurl}}/assets/img/Chess Set/Bishopgif.gif)
-
+The Bishop was simple a wide base, quickly narrowed to the neck and quickly flared out creating a holding point. The helmet has no face so that the piece is always facing the correct direction (or always the incorrect one?) and the helmet has a small ball on top to catch light.
 ## Knight
 ![Iteration 6]({{site.baseurl}}/assets/img/Chess Set/Knightgif.gif)
-
+The knight is a difficult piece to design, but this simplistic version addressed the past issues of the mouth being too far over the body. It faces up boldly and has contours that quickly move from the base up to the neck. This creates two distinct ways to hold the piece, under the jaw and at it's back and on the sides. It is simple and clearly displays the piece for what it is.
 ## Rook
 ![Iteration 6]({{site.baseurl}}/assets/img/Chess Set/Rookgif.gif)
-
+The rook is designed as a castle pillar, thick in its body with slight curvature to identify where your fingers should go. 6 slits in the top create the classical look that identifies the rook.
 ## Pawn
 ![Iteration 6]({{site.baseurl}}/assets/img/Chess Set/Pawngif.gif)
+The pawn simple and small the pawn has a narrow base that narrows further to the neck creating a holding point. The single ball on top of the neck shows the head of the piece and creates a reflective surface that contours well with the base.
 
+## Final Thoughts
+
+This project was amazingly productive in terms of design. Functionally each piece has hold points while also conforming to the specifics you'd expect from each chess piece. Each piece follows its nature while being unique to the design that I intended for them to have.
 
