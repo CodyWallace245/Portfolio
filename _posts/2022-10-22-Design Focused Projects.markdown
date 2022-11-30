@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Design Focused Projects
-date: 2018-01-1 00:00:00 +0300
+date: 2020-01-1 00:00:00 +0300
 description: Projects rooted in design
 img: RingRender.png
 tags: [Js, Conference] # add tag
