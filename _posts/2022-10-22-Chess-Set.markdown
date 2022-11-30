@@ -38,6 +38,25 @@ I reviewed my previous work and returned to a more classical thematic look. Medi
 This set was simple and elegant, which started to become my ideal theme. Draped cloth was the identity of these pieces, sharp corners and unique identifiers created a beautiful chess set. The base of the part became unobtrusive and just created a plate for each piece to display its own beauty I really was proud of this one and we created the pieces. Unfortunately, It was plagued again. The knights jaw was too far forward and broke in sintering, the rim of the rook was too sharp, the ball on the bishops hat was too small and the kings crown was to intricate to make it through the process. If I was working with SLS or DLM 3D printing these pieces would be beautiful.
 
 ## Final Version
-![Iteration 6]({{site.baseurl}}/assets/img/Chess Set/Mesh Chess Set.jpg)
+![Iteration 6]({{site.baseurl}}/assets/img/Chess Set/MChess Set Black.jpg)
+This was the last set - designed so that each piece fit functionally in the players hand. A creation that identified with classical chess pieces and fit to scale perfectly with one another. Each piece has a Yin-yang etched into the base and is designed such that the thumb and forefinger have clear placement points on each piece. These pieces were printed on the Desktop Metal Shop system, media blasted, polished and sent off for coating.
+
+## King
+![Iteration 6]({{site.baseurl}}/assets/img/Chess Set/Kinggif.gif)
+
+## Queen
+![Iteration 6]({{site.baseurl}}/assets/img/Chess Set/Queengif.gif)
+
+## Bishop
+![Iteration 6]({{site.baseurl}}/assets/img/Chess Set/Bishopgif.gif)
+
+## Knight
+![Iteration 6]({{site.baseurl}}/assets/img/Chess Set/Knightgif.gif)
+
+## Rook
+![Iteration 6]({{site.baseurl}}/assets/img/Chess Set/Rookgif.gif)
+
+## Pawn
+![Iteration 6]({{site.baseurl}}/assets/img/Chess Set/Pawngif.gif)
 
 
