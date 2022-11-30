@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "TIR Targets"
-date: 2022-10-22 20:45:00 
+date: 2022-9-22 20:45:00 
 description: A New way to practice your shot!
 img: IMG_1515.jpg
 tags: [Sports,Design,3D-Printing,Engineering]
