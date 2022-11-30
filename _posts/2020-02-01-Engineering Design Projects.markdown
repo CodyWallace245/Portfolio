@@ -37,8 +37,3 @@ Designed to aid in printhead assembly and repair. A Desktop Metal Studio printer
 
 Designed to solve the issue of wire hanging. These little clips go at any corner point in a room and allow you to press in a wire. (assembly with double sided tape required)
 ![Wire Hangers]({{site.baseurl}}/assets/img/Smaller Designs/3D printable wire hangers.jpg)
-
-## Barber Shop Sign
-
-Designed to work on combining animation + CAD design. 
-![Barber Shop Sign]({{site.baseurl}}/assets/img/Smaller Designs/Barber Shop Sign.jpg)
