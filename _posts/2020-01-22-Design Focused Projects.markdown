@@ -18,6 +18,12 @@ This ring uses sweeps and extrusions to have a really elegant look. Designed to 
 ![Crimson Ring]({{site.baseurl}}/assets/img/Smaller Designs/3D Printable Ring.jpg)
 ![Crimson Ring]({{site.baseurl}}/assets/img/Smaller Designs/IMG-1541.jpg)
 
+## Screw Rook
+Designed to show off the capabilities of the Desktop Metal Studio System, this print in place part allows the central nut to be moved up and down.
+
+![Screw Rook]({{site.baseurl}}/assets/img/Smaller Designs/3D printable screw rook.jpg)
+![Screw Rook]({{site.baseurl}}/assets/img/Smaller Designs/ezgif.com-gif-maker (11).gif)
+
 ## 5 Part Ring
 This ring set is designed to be worn all together, the 2 of the 3 unique rings are mirrored and the last is the center piece. The central theme dictates the contour types that the other 2 unique rings share.
 
@@ -27,12 +33,6 @@ This ring set is designed to be worn all together, the 2 of the 3 unique rings a
 This chain mesh was designed to be 3D printed in place in a single print. Many versions of this mesh were designed, but this one flowed the best.
 
 ![Chain Mesh]({{site.baseurl}}/assets/img/Smaller Designs/3D printable chain mesh.jpg)
-
-## Screw Rook
-Designed to show off the capabilities of the Desktop Metal Studio System, this print in place part allows the central nut to be moved up and down.
-
-![Screw Rook]({{site.baseurl}}/assets/img/Smaller Designs/3D printable screw rook.jpg)
-![Screw Rook]({{site.baseurl}}/assets/img/Smaller Designs/ezgif.com-gif-maker (11).gif)
 
 ## Packaging Concept for TIR Targets
 The packaging was designed to the TIR targets height and width, allowing extra space to add straps. The concept used a minimalist design similar to drawings sent to manufacturers.
