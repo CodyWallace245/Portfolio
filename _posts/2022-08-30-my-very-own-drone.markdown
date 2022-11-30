@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Creating a 8.5mm motor micro quadcopter"
-date: 2022-12-30 20:45:00 
+date: 2022-08-30 20:45:00 
 description: There are other models out there, that require fasteners, or components that aren't essentials, so I aimed to fix that!
 img: Copter_Assembly_Final_Render.png
 tags: [Drone,Robotics,Robots,Design,3D-Printing,]
