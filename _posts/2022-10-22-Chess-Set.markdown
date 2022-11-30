@@ -19,47 +19,59 @@ The heights were really useful in determining scale, but the bases should really
 
 ## Iteration 1
 ![Iteration 1]({{site.baseurl}}/assets/img/Chess Set/Early Knight Piece.jpg)
+
 The earliest version of the pieces referenced Doric greek architecture - pillars surrounded the base and flat lines gave a very chiseled look to the pieces. This was great in concept, but the issue was weighting. Metal 3D printing has limitations, and overhangs like the horses jaw were not going to work well. The support structure would be resting on a steep incline and as the part sintered the support structure would fall out leaving a broken jaw. Unfortunately, this wouldnt be the best solution.
 
 ## Iteration 2
 ![Iteration 2]({{site.baseurl}}/assets/img/Chess Set/Knight Piece First Design.jpg)
+
 The second version of the knight was trying to dial back the complexity of the part, beacuse as each piece gets more complex it needs to fit in style to the other pieces, a complex version of the knight meant a more complex version of the pawn, king, queen, bishop and rook. Unfortunately this was way too simple, this didnt display my ability to design in any way and it really didnt make for a compelling chess set.
 
 ## Iteration 3
 ![Iteration 3]({{site.baseurl}}/assets/img/Chess Set/Twisted Pawn Piece.jpg)
+
 I started to revamp my strategy - I knew I could design the knight, but the commonality between each piece was the base. A solid good looking base could then be adjusted to each piece and because I was using metal 3D printing, I could create designs that would otherwise never be created. This base concept referenced Voroni structures, while still being printable. Two layers of trapezoidal pillars were created and then rotated to different degrees to create a base structure that displayed a parallax when rotated. This was great in concept but extremely difficult to print.
 
 ## Iteration 4
 ![Iteration 4]({{site.baseurl}}/assets/img/Chess Set/Chess Base of knight jagged.jpg)
+
 I reviewed my previous work and returned to a more classical thematic look. Medieval walls were the theme that influenced this design, the jagged edges and rigid structure could make for strong pieces, but in the end, the weight and overbearing amount of base took away from the identity of the piece. This was getting closer.
 
 ## Iteration 5
 ![Iteration 5]({{site.baseurl}}/assets/img/Chess Set/Mesh Chess Set.jpg)
+
 This set was simple and elegant, which started to become my ideal theme. Draped cloth was the identity of these pieces, sharp corners and unique identifiers created a beautiful chess set. The base of the part became unobtrusive and just created a plate for each piece to display its own beauty I really was proud of this one and we created the pieces. Unfortunately, It was plagued again. The knights jaw was too far forward and broke in sintering, the rim of the rook was too sharp, the ball on the bishops hat was too small and the kings crown was to intricate to make it through the process. If I was working with SLS or DLM 3D printing these pieces would be beautiful.
 
 ## Final Version
-![Iteration 6]({{site.baseurl}}/assets/img/Chess Set/MChess Set Black.jpg)
+![Iteration 6]({{site.baseurl}}/assets/img/Chess Set/Chess Set Black.jpg)
+
 This was the last set - designed so that each piece fit functionally in the players hand. A creation that identified with classical chess pieces and fit to scale perfectly with one another. Each piece has a Yin-yang etched into the base and is designed such that the thumb and forefinger have clear placement points on each piece. These pieces were printed on the Desktop Metal Shop system, media blasted, polished and sent off for coating.
 
 ## King
 ![Iteration 6]({{site.baseurl}}/assets/img/Chess Set/Kinggif.gif)
+
 The King was a simple piece, the thumb and forefinger would rest just below his hat. His hat brim had a slight puff on the edges before contouring downwards to the center where the cross spouted out. The puffed hat created the clothy appearance that a traditional kings had would make. The piece has a harsher arc from base to top creating a more masculine piece
 
 ## Queen
 ![Iteration 6]({{site.baseurl}}/assets/img/Chess Set/Queengif.gif)
+
 The Queen was another simple piece, again, the thumb and forefinger would rest just below her hat. The piece had a more central arc to create a more hourglass shape and the crown has small edges to catch light and create a textured feel - flat in the center to display that it really is a crown.
 
 ## Bishop
 ![Iteration 6]({{site.baseurl}}/assets/img/Chess Set/Bishopgif.gif)
+
 The Bishop was simple a wide base, quickly narrowed to the neck and quickly flared out creating a holding point. The helmet has no face so that the piece is always facing the correct direction (or always the incorrect one?) and the helmet has a small ball on top to catch light.
 ## Knight
 ![Iteration 6]({{site.baseurl}}/assets/img/Chess Set/Knightgif.gif)
+
 The knight is a difficult piece to design, but this simplistic version addressed the past issues of the mouth being too far over the body. It faces up boldly and has contours that quickly move from the base up to the neck. This creates two distinct ways to hold the piece, under the jaw and at it's back and on the sides. It is simple and clearly displays the piece for what it is.
 ## Rook
 ![Iteration 6]({{site.baseurl}}/assets/img/Chess Set/Rookgif.gif)
+
 The rook is designed as a castle pillar, thick in its body with slight curvature to identify where your fingers should go. 6 slits in the top create the classical look that identifies the rook.
 ## Pawn
 ![Iteration 6]({{site.baseurl}}/assets/img/Chess Set/Pawngif.gif)
+
 The pawn simple and small the pawn has a narrow base that narrows further to the neck creating a holding point. The single ball on top of the neck shows the head of the piece and creates a reflective surface that contours well with the base.
 
 ## Final Thoughts
