@@ -8,7 +8,7 @@ tags: [Js, Conference] # add tag
 ---
 
 ## 3D Printable Heart Bracelet
-Designed for Valentines day and to test the capabilities of metal 3D FDM printers to print fully linked jewelery.
+Designed for Valentines day and to test the capabilities of metal FDM printers to print fully linked jewelery.
 
 ![Heart Bracelet]({{site.baseurl}}/assets/img/Smaller Designs/3D Printable Heart Bracelet.jpg)
 ![Heart Bracelet]({{site.baseurl}}/assets/img/Smaller Designs/IMG-0261.jpg)
