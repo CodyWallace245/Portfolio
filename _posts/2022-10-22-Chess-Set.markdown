@@ -35,4 +35,9 @@ I reviewed my previous work and returned to a more classical thematic look. Medi
 
 ## Iteration 5
 ![Iteration 5]({{site.baseurl}}/assets/img/Chess Set/Mesh Chess Set.jpg)
-This set was simple and elegant, which started to become my ideal theme. Draped cloth was the identity of these pieces, sharp corners and unique identifiers created a beautiful chess set. The base of the part became unobtrusive and just created a plate for each piece to display its own beauty I really was proud of this one and we created the pieces. Unfortunately, It was plagued again. The knights jaw was too far forward and broke in sintering, the rim of the rook was too sharp, the ball on the bishops hat was too small and the kings crown was to intricate to make it through the process. If I was working with SLS or DLM these pieces would be beautiful.
+This set was simple and elegant, which started to become my ideal theme. Draped cloth was the identity of these pieces, sharp corners and unique identifiers created a beautiful chess set. The base of the part became unobtrusive and just created a plate for each piece to display its own beauty I really was proud of this one and we created the pieces. Unfortunately, It was plagued again. The knights jaw was too far forward and broke in sintering, the rim of the rook was too sharp, the ball on the bishops hat was too small and the kings crown was to intricate to make it through the process. If I was working with SLS or DLM 3D printing these pieces would be beautiful.
+
+## Final Version
+![Iteration 6]({{site.baseurl}}/assets/img/Chess Set/Mesh Chess Set.jpg)
+
+
