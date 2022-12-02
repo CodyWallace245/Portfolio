@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Design Focused Projects
+title: Overview: Design Focused Projects
 date: 2020-01-1 00:00:00 +0300
 description: Projects rooted in design
 img: RingRender.png
