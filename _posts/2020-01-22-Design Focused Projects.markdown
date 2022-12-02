@@ -42,8 +42,3 @@ The packaging was designed to the TIR targets height and width, allowing extra s
 
 ![Packaging Concept]({{site.baseurl}}/assets/img/Smaller Designs/TIR Target Packaging Concept.jpg)
 
-## Barber Shop Sign
-
-Designed to work on combining animation + CAD design. 
-
-![Barber Shop Sign]({{site.baseurl}}/assets/img/Smaller Designs/Barber Shop Sign.jpg)
