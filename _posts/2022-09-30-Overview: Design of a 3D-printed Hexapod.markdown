@@ -6,6 +6,7 @@ description: Major Qualification Project (MQP) that won the Mechanical Engineeri
 img: Final_Render.png
 tags: [Hexapod,Robotics,Robots,Design,3D-Printing]
 ---
+
 The design and production of a 3D-printed hexapod was a year-long project that my team and I started the beginning of the 2015 school year. We focused mostly on creating a robot that was both engaging and innovative, while staying within our $640 budget. We wanted to use as few motors as possible to actuate the motion and so we innovated on common gaitstyles used in multi-legged robots. The full-length report can be found [here](https://web.wpi.edu/Pubs/E-project/Available/E-project-042615-150727/unrestricted/Hexapod_MQP_Final_MQP_Report_4-26-2015.pdf)
 
 ## Tripedal gate style
