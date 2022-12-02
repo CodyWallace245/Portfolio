@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Overview: Engineering Design Projects
+title: "Overview: Engineering Design Projects"
 date: 2020-02-1 00:00:00 +0300
 description: Projects rooted in engineering
 img: 3DPrintablePenlarge.jpg
