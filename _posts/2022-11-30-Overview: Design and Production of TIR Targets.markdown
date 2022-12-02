@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TIR Targets"
+title: "Overview: Design and Production of TIR Targets"
 date: 2022-11-30 20:45:00 
 description: A New way to practice your shot!
 img: IMG_1515.jpg
