@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Chess Set"
+title: "Overview: Designing a Chess Set"
 date: 2022-10-30 20:45:00 
 description: A completely unique chess set!
 img: ChessSetGold.jpg
