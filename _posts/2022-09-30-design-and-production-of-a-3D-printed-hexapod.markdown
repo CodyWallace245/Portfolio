@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Design and Production of a 3D-printed Hexapod
+title: Overview: Design of a 3D-printed Hexapod
 date: 2022-09-30 12:00:20
 description: Major Qualification Project (MQP) that won the Mechanical Engineering Provost Award - The most prestigious award an MQP can earn from WPI.
 img: Final_Render.png
