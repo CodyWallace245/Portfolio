@@ -3,7 +3,7 @@ layout: post
 title: Consolidated Portfolio
 date: 2022-11-30 00:00:00 +0300
 description: Portfolio Consolidated
-img: RingRender.png
+img: ConsolidatedPortfolioTopImage.jpg
 tags: [Js, Conference] # add tag
 ---
 
