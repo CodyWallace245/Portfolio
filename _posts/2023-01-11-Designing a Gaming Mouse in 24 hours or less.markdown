@@ -10,9 +10,13 @@ tags: [Gaming,Design,3D-Printing,Engineering]
 The goal of this project was to design a functional gaming mouse in 24 hours. 
 Gaming mice differ from normal computer mice, in that they are usually used at a much higher frequency to normal gaming mice, they are rated for higher amounts of clicks, have higher or more customizable DPI (dots per inch) and often contain RGB (Red Green Blue) strips that are customizable.
 
-![Sketch]({{site.baseurl}}/assets/img/LowProfileMouseSketch.jpg)
 
 ## Start time: 6:30pm January 11th, 2023
+
+## Proof of Concept
+Time to make a really rough sketch to remember basic functions I'm going to be adding in.
+
+![Sketch]({{site.baseurl}}/assets/img/LowProfileMouseSketch.jpg)
 
 Having used the Sculpt function in Fusion 360 many times before, I knew that creating a mesh body and molding it into the form that I wanted was where I would start.
 Knowing that this mouse had no electrical components selected, I was free to create a general mouse body without having to worry about fitting components (at least for now).
@@ -64,5 +68,26 @@ Now that the LC, RC, MB1, MB2, MB3 were all created, it was now time to create a
 
 Here it was, the first set of renders for this gaming mouse concept - simple and ergonomic no LED placements, but the general concept was created. Now it's time to buy a mouse off of Amazon and really design around the electronics.
 The Razer DeathAdder Essential Gaming Mouse has a hefty 33% off deal along with overnight shipping - making it the perfect candidate for ariving and cannibalizing before 6:30pm tomorrow.
+
+
+## Gaming Mouse Design
+
+Now that I have the mouse I'm going to cannibalize on order, I can get some of the auxillary pieces started and save myself some time before having to design the PCB + components when the mouse arrives.
+
+First, I got to sketching out the adjusted gaming mouse, and logo that will be etched on the back.
+
+![Final Mouse 1]({{site.baseurl}}/assets/img/GamingMouseSketch.jpg)
+
+Once I got a design that I thought was appropriate, I moved the Logo over to Illustrator and made an .SVG
+
+![Final Mouse 2]({{site.baseurl}}/assets/img/GamingMouseLogo.jpg)
+
+A few adjustments later, and here's the final logo.
+
+![Final Mouse 3]({{site.baseurl}}/assets/img/GamingMouseLogoFinal.jpg)
+
+I created a simple template that outlines my planned mouse using correct dimmensions, this will save me a bit of work tomorrow and allows me to plan the design in advance. I also went ahead and designed the buttons and thumbpad which will need to be adjusted depending on the PCB Design and the corresponding space requirements.
+
+![Final Mouse 4]({{site.baseurl}}/assets/img/GamingMouseAccessories.jpg)
 
 
