@@ -53,7 +53,7 @@ Now it's really starting to look like a mouse, the retaining body for the Left a
 
 ![Iteration 10]({{site.baseurl}}/assets/img/LowProfileMouse10.jpg)
 
-I wanted to create internal markings on where I thought the On/Off switch, IR Sensor and Bluetooth connectors would go. These few components could fit roughly in the center of the mouse and leave space for the left and right switches along with some weights in the back of the mouse for a good feel in the hand.
+I wanted to create internal markings on where I thought the On/Off switch, CMOS Sensor and Bluetooth button would go. These few components could fit roughly in the center of the mouse and leave space for the left and right switches along with some weights in the back of the mouse for a good feel in the hand.
 
 ![Iteration 11]({{site.baseurl}}/assets/img/LowProfileMouse11.jpg)
 
