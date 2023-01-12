@@ -73,9 +73,9 @@ The Razer DeathAdder Essential Gaming Mouse has a hefty 33% off deal along with 
 
 ## Gaming Mouse Design
 
-Now that I have the mouse I'm going to cannibalize ordered, I can get some of the auxillary pieces started and save myself some time before having to design the PCB + components when the mouse arrives.
+Now that I've ordered the mouse I'm going to cannibalize, I can get some of the auxillary pieces started and save myself some time before having to design the PCB + components when the mouse arrives.
 
-First, I got to sketching out the adjusted gaming mouse, and logo that will be etched on the back.
+First, I got to sketching out the adjusted gaming mouse and logo that will be etched on the back.
 
 ![Final Mouse 1]({{site.baseurl}}/assets/img/GamingMouseSketch.jpg)
 
@@ -87,7 +87,7 @@ A few adjustments later, and here's the final logo.
 
 ![Final Mouse 3]({{site.baseurl}}/assets/img/GamingMouseLogoFinal.jpg)
 
-I created a simple template that outlines my planned mouse using correct dimmensions, this will save me a bit of work tomorrow and allows me to plan the design in advance. I also went ahead and designed the buttons and thumbpad which will need to be adjusted depending on the PCB design and the corresponding space requirements.
+I created a simple template that outlines my planned mouse using correct dimmensions, this will save me a bit of work tomorrow and allows me to plan the design in advance. I also went ahead and designed the buttons and thumbpad which may need to be adjusted depending on the PCB design and the corresponding space requirements.
 
 ![Final Mouse 4]({{site.baseurl}}/assets/img/GamingMouseAccessories.jpg)
 
