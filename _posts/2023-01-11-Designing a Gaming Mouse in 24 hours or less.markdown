@@ -7,7 +7,10 @@ img: LowProfileMouse16.jpg
 tags: [Gaming,Design,3D-Printing,Engineering]
 ---
 
-The goal of this project was to design a functional gaming mouse in 24 hours. Gaming mice differ from normal computer mice, in that they are usually used at a much higher frequency to normal gaming mice. They are rated for higher amounts of clicks, have higher DPI and often contain RGB strips that are customizable.
+The goal of this project was to design a functional gaming mouse in 24 hours. 
+Gaming mice differ from normal computer mice, in that they are usually used at a much higher frequency to normal gaming mice, they are rated for higher amounts of clicks, have higher or more customizable DPI (dots per inch) and often contain RGB (Red Green Blue) strips that are customizable.
+
+![Sketch]({{site.baseurl}}/assets/img/LowProfileMouseSketch.jpg)
 
 ## Start time: 6:30pm January 11th, 2023
 
