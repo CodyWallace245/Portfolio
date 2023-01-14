@@ -22,7 +22,7 @@ google_analytics: G-49NT01H7QE
 discus-identifier: # add your discus identifier
 
 # Tracker
-analytics: # Google Analytics
+analytics: G-49NT01H7QE
 
 # Build Settings
 markdown: kramdown
