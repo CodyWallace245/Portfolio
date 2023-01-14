@@ -1,15 +1,14 @@
 ---
 layout: post
-title: "Designing a Gaming mouse in 24 hours or less."
+title: "Designing a Gaming mouse in 48 hours or less."
 date: 2023-01-11 20:45:00 
 description: Ergonomic Gaming Mouse Design
 img: LowProfileMouse16.jpg
 tags: [Gaming,Design,3D-Printing,Engineering]
 ---
 
-The goal of this project was to design a functional gaming mouse in 24 hours. 
-Gaming mice differ from normal computer mice, in that they are usually used at a much higher frequency to normal gaming mice, they are rated for higher amounts of clicks, have higher or more customizable DPI (dots per inch) and often contain RGB (Red Green Blue) strips that are customizable.
-
+The goal of this project was to design a functional gaming mouse in 48 hours. 
+Gaming mice differ from normal computer mice, in that they are usually used at a much higher frequency to normal mice, they are rated for higher amounts of clicks, have higher or more customizable DPI (dots per inch) and often contain RGB (Red Green Blue) strips that are customizable.
 
 ## Start time: 6:30pm January 11th, 2023
 
@@ -90,5 +89,7 @@ A few adjustments later, and here's the final logo.
 I created a simple template that outlines my planned mouse using correct dimmensions, this will save me a bit of work tomorrow and allows me to plan the design in advance. I also went ahead and designed the buttons and thumbpad which may need to be adjusted depending on the PCB design and the corresponding space requirements.
 
 ![Final Mouse 4]({{site.baseurl}}/assets/img/GamingMouseAccessories.jpg)
+
+Unfortunately, the Razer Mouse didnt arrive early the next day when it was supposed to, instead it arrived at 6:30pm, but that was fine. I took the time to develop a general shape for the mouse body. 
 
 
