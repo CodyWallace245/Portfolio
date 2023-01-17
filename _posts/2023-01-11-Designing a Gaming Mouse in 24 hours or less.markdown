@@ -138,13 +138,15 @@ Here's the finished model!
 
 and some renders!
 
-![Final Mouse 14]({{site.baseurl}}/assets/img/GamingMouseFinal.jpg)
-![Final Mouse 14]({{site.baseurl}}/assets/img/GamingMouseFinal2.jpg)
-![Final Mouse 14]({{site.baseurl}}/assets/img/GamingMouseFinal3.jpg)
-![Final Mouse 14]({{site.baseurl}}/assets/img/GamingMouseFinal4.jpg)
+![Final Mouse 15]({{site.baseurl}}/assets/img/GamingMouseFinal.jpg)
+![Final Mouse 16]({{site.baseurl}}/assets/img/GamingMouseFinal2.jpg)
+![Final Mouse 17]({{site.baseurl}}/assets/img/GamingMouseFinal3.jpg)
+![Final Mouse 18]({{site.baseurl}}/assets/img/GamingMouseFinal4.jpg)
 
 There is a lot that could be improved in this design, but I'm glad I got a functioning mouse at the end of it. 
 
+![Final Mouse 19]({{site.baseurl}}/assets/img/GamingMouseDesignv12.gif)
 
+## Completion time: 5:26pm January 13th, 2023 - Total elapsed time, 47 hours
 
 
