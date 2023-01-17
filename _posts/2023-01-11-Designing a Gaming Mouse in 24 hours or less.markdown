@@ -7,8 +7,18 @@ img: LowProfileMouse16.jpg
 tags: [Gaming,Design,3D-Printing,Engineering]
 ---
 
-The goal of this project was to design a functional gaming mouse in 48 hours. 
-Gaming mice differ from normal computer mice, in that they are usually used at a much higher frequency to normal mice, they are rated for higher amounts of clicks, have higher or more customizable DPI (dots per inch) and often contain RGB (Red Green Blue) strips that are customizable.
+## The overall goal of this project was to design a functional gaming mouse in 48 hours. 
+Gaming mice differ from normal computer mice, in that they are designed to be used at a much higher frequency to normal mice, they are rated for higher amounts of clicks, have higher or more customizable DPI (dots per inch) and often contain RGB (Red Green Blue) strips that are customizable.
+
+## Design-specific goals:
+The mouse should have a two part shell that houses the PCB from a Razor Death Adder
+The shell should have a contour that makes lifting the mouse easier.
+The mouse should have 5 buttons total, MB1, MB2, LC, RC, Scroll Wheel Button 
+The mouse buttons should be easily pressable by the thumb
+The mouse should have guard-less left and right clicks
+The mouse should be corded
+The fasteners + pads from the Razor Death Adder should be used to connect the bodies of the mouse.
+3D print the body and base, then put it all together
 
 ## Start time: 6:30pm January 11th, 2023
 
@@ -91,5 +101,50 @@ I created a simple template that outlines my planned mouse using correct dimmens
 ![Final Mouse 4]({{site.baseurl}}/assets/img/GamingMouseAccessories.jpg)
 
 Unfortunately, the Razer Mouse didnt arrive early the next day when it was supposed to, instead it arrived at 6:30pm, but that was fine. I took the time to develop a general shape for the mouse body. 
+
+![Final Mouse 5]({{site.baseurl}}/assets/img/GamingMouse1.jpg)
+
+Since I didn't have the PCB from the Death Adder, I went ahead and printed the mouse to compare with what I currently have, a Logitech G Pro. Clearly, the body wasn't wide enough, but the thumb and ring finger contours were awesome.
+
+![Final Mouse 6]({{site.baseurl}}/assets/img/GamingMouse2.jpg)
+
+After widening the base a little bit, I reprinted the full mouse this time. It felt good, and really encompassed the body shape I was looking for.
+
+![Final Mouse 7]({{site.baseurl}}/assets/img/GamingMouse3.jpg)
+
+The mouse arrived! Now it's time to design the PCB. Since this was a 48 hour challenge, I only designed the critical components.
+
+![Final Mouse 8]({{site.baseurl}}/assets/img/GamingMouse4.jpg)
+
+Now that the PCB was completed, I could slot it inside the base of the mouse and work on critical functionality - Mouse clicks, and wire routing. The setup, was to hide the wire underneath the PCB, since it's a tight space and the CMOS sensor already required the board to be elevated, this made sense to keep the mouse width normal.
+
+![Final Mouse 9]({{site.baseurl}}/assets/img/GamingMouse5.jpg)
+
+Now came time to create the top of the mouse. The switches for left and right click needed to be pressed, which means the top body had to have a way to create a fulcrum for the buttons. a simple cut across the body created a separation point and a good way to convert your presses, into clicks. MB1 and MB2 were created on the side, with 0.4mm spacing to ensure the throw wouldn't interfere with the main body. 
+
+![Final Mouse 10]({{site.baseurl}}/assets/img/GamingMouse6.jpg)
+
+Now it came time to add spaces for fastening. Because of space limitations I had to secure the top and bottom pieces at the front of the mouse, which is not ideal from an asthetics standpoint, but time was running out and redesigning the mesh body was going to cause so many things to need rework so I had to make the concession. 
+
+![Final Mouse 11]({{site.baseurl}}/assets/img/GamingMouse7.jpg)
+
+Adding some additional supports to the mouse upper body around the connection holes and fillets around the Leftclick + right click bases helps with 3D printing and making sure the components can support longer term use.
+
+![Final Mouse 12]({{site.baseurl}}/assets/img/GamingMouse8.jpg)
+
+Here's the finished model!
+
+![Final Mouse 13]({{site.baseurl}}/assets/img/GamingMouseDesignv12.gif)
+
+and some renders!
+
+![Final Mouse 14]({{site.baseurl}}/assets/img/GamingMouseFinal.jpg)
+![Final Mouse 14]({{site.baseurl}}/assets/img/GamingMouseFinal2.jpg)
+![Final Mouse 14]({{site.baseurl}}/assets/img/GamingMouseFinal3.jpg)
+![Final Mouse 14]({{site.baseurl}}/assets/img/GamingMouseFinal4.jpg)
+
+There is a lot that could be improved in this design, but I'm glad I got a functioning mouse at the end of it. 
+
+
 
 
