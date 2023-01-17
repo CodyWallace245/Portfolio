@@ -11,19 +11,26 @@ tags: [Gaming,Design,3D-Printing,Engineering]
 Gaming mice differ from normal computer mice, in that they are designed to be used at a much higher frequency to normal mice, they are rated for higher amounts of clicks, have higher or more customizable DPI (dots per inch) and often contain RGB (Red Green Blue) strips that are customizable.
 
 ## Design-specific goals:
-The mouse should have a two part shell that houses the PCB from a Razor Death Adder
-The shell should have a contour that makes lifting the mouse easier.
-The mouse should have 5 buttons total, MB1, MB2, LC, RC, Scroll Wheel Button 
-The mouse buttons should be easily pressable by the thumb
-The mouse should have guard-less left and right clicks
-The mouse should be corded
-The fasteners + pads from the Razor Death Adder should be used to connect the bodies of the mouse.
-3D print the body and base, then put it all together
+- The mouse should have a two part shell that houses the PCB from a Razor Death Adder
+
+- The shell should have a contour that makes lifting the mouse easier.
+
+- The mouse should have 5 buttons total, MB1, MB2, LC, RC, Scroll Wheel Button 
+
+- The mouse buttons should be easily pressable by the thumb
+
+- The mouse should have guard-less left and right clicks
+
+- The mouse should be corded
+
+- The fasteners + pads from the Razor Death Adder should be used to connect the bodies of the mouse.
+
+- 3D print the body and base, then put it all together
 
 ## Start time: 6:30pm January 11th, 2023
 
 ## Proof of Concept
-Time to make a really rough sketch to remember basic functions I'm going to be adding in.
+Time to make a **really rough sketch** to remember basic functions I'm going to be adding in.
 
 ![Sketch]({{site.baseurl}}/assets/img/LowProfileMouseSketch.jpg)
 
