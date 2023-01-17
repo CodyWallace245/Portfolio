@@ -138,7 +138,7 @@ Here's the finished model!
 
 and some renders!
 
-![Final Mouse 15]({{site.baseurl}}/assets/img/GamingMouseFinal.jpg)
+![Final Mouse 15]({{site.baseurl}}/assets/img/Gaming MouseFinal.jpg)
 ![Final Mouse 16]({{site.baseurl}}/assets/img/GamingMouseFinal2.jpg)
 ![Final Mouse 17]({{site.baseurl}}/assets/img/GamingMouseFinal3.jpg)
 ![Final Mouse 18]({{site.baseurl}}/assets/img/GamingMouseFinal4.jpg)
