@@ -145,7 +145,7 @@ and some renders!
 
 There is a lot that could be improved in this design, but I'm glad I got a functioning mouse at the end of it. 
 
-![Final Mouse 19]({{site.baseurl}}/assets/img/GamingMouseDesignv12.gif)
+![Final Mouse 19]({{site.baseurl}}/assets/img/GamingMouseFinalVideo.gif)
 
 ## Completion time: 5:26pm January 13th, 2023 - Total elapsed time, 47 hours
 
