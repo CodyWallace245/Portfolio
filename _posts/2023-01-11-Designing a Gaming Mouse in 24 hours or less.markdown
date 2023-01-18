@@ -139,6 +139,10 @@ Adding some additional supports to the mouse upper body around the connection ho
 
 ![Final Mouse 12]({{site.baseurl}}/assets/img/GamingMouse8.jpg)
 
+One last fit test!
+
+![Final Mouse 20]({{site.baseurl}}/assets/img/GamingMouseAssembly.gif)
+
 Here's the finished model!
 
 ![Final Mouse 13]({{site.baseurl}}/assets/img/GamingMouseDesignv12.gif)
