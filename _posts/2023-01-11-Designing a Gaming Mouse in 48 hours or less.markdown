@@ -107,7 +107,7 @@ I created a simple template that outlines my planned mouse using correct dimmens
 
 ![Final Mouse 4]({{site.baseurl}}/assets/img/GamingMouseAccessories.jpg)
 
-Unfortunately, the Razer Mouse didnt arrive early the next day when it was supposed to, instead it arrived at 6:30pm, but that was fine. I took the time to develop a general shape for the mouse body. 
+Unfortunately, the Razer Mouse didnt arrive early the next day when it was supposed to, instead it was suppose to arrive at 6:30pm, but that was fine. I took the time to develop a general shape for the mouse body. 
 
 ![Final Mouse 5]({{site.baseurl}}/assets/img/GamingMouse1.jpg)
 
@@ -119,7 +119,7 @@ After widening the base a little bit, I reprinted the full mouse this time. It f
 
 ![Final Mouse 7]({{site.baseurl}}/assets/img/GamingMouse3.jpg)
 
-The mouse arrived! Now it's time to design the PCB. Since this was a 48 hour challenge, I only designed the critical components.
+The mouse arrived! Now it's time to design the PCB. Since this was a 48 hour challenge, I only designed the critical components of the PCB.
 
 ![Final Mouse 8]({{site.baseurl}}/assets/img/GamingMouse4.jpg)
 
