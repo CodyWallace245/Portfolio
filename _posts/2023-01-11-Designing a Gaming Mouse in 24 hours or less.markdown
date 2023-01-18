@@ -3,7 +3,7 @@ layout: post
 title: "Designing a Gaming mouse in 48 hours or less."
 date: 2023-01-11 20:45:00 
 description: Ergonomic Gaming Mouse Design
-img: MouseHeroImage.jpg
+img: MouseHeroImage2.jpg
 tags: [Gaming,Design,3D-Printing,Engineering]
 ---
 
