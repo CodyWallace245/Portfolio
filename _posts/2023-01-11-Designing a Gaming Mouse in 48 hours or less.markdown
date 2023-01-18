@@ -89,7 +89,7 @@ The Razer DeathAdder Essential Gaming Mouse has a hefty 33% off deal along with 
 
 ## Gaming Mouse Design
 
-Now that I've ordered the mouse I'm going to cannibalize and completed a quick sample mouse, I can get some of the auxillary pieces started and save myself some time before having to design the PCB + components when the mouse arrives.
+Now that I've ordered the Death Adder and completed a quick sample mouse, I can get some of the auxillary pieces started and save myself some time before having to design the PCB + components when the mouse arrives.
 
 First, I got to sketching out the adjusted gaming mouse and logo that will be etched on the back.
 
