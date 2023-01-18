@@ -3,7 +3,7 @@ layout: post
 title: "Designing a Gaming mouse in 48 hours or less."
 date: 2023-01-11 20:45:00 
 description: Ergonomic Gaming Mouse Design
-img: LowProfileMouse16.jpg
+img: MouseHeroImage.jpg
 tags: [Gaming,Design,3D-Printing,Engineering]
 ---
 
@@ -82,14 +82,14 @@ Now that the LC, RC, MB1, MB2, MB3 were all created, it was now time to create a
 
 ![Iteration 16]({{site.baseurl}}/assets/img/LowProfileMouse15.jpg)
 
-Here it is, the first set of renders for this gaming mouse concept - simple and ergonomic no LED placements, but the general concept was created. Now it's time to buy a mouse off of Amazon and really design around the electronics.
+Here it is, the first set of renders for this mouse concept - simple and ergonomic no LED placements, but the general concept was created. Now it's time to buy a mouse off of Amazon and really design around the electronics.
 The Razer DeathAdder Essential Gaming Mouse has a hefty 33% off deal along with overnight shipping - making it the perfect candidate for ariving and cannibalizing before 6:30pm tomorrow.
 
 ![Iteration 16]({{site.baseurl}}/assets/img/LowProfileMouse16.jpg)
 
 ## Gaming Mouse Design
 
-Now that I've ordered the mouse I'm going to cannibalize, I can get some of the auxillary pieces started and save myself some time before having to design the PCB + components when the mouse arrives.
+Now that I've ordered the mouse I'm going to cannibalize and completed a quick sample mouse, I can get some of the auxillary pieces started and save myself some time before having to design the PCB + components when the mouse arrives.
 
 First, I got to sketching out the adjusted gaming mouse and logo that will be etched on the back.
 
