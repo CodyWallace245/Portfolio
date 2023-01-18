@@ -157,7 +157,7 @@ and some renders!
 
 ![Final Mouse 17]({{site.baseurl}}/assets/img/GamingMouseFinal3.jpg)
 
-There is a lot that could be improved in this design, but I'm glad I got a functioning mouse at the end of it. 
+There is a lot that could be improved in this design, but I'm happy with the outcome given a 48 hour time constraint! 
 
 ![Final Mouse 19]({{site.baseurl}}/assets/img/GamingMouseFinalVideo.gif)
 
