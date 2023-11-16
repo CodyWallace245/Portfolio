@@ -94,7 +94,7 @@ Before really getting into the negotiation, I used the protolabs part optimizer 
 
 ## Sample Mold
 
-$600 was all it cost to get the single shot mold created. it took about 2 weeks for the mold to get made, and cost roughly $50 per sample. We started to work on some of the issues - getting the artwork onto the target required two separate steps. Drip dyeing and screen printing. Screen printing was pretty easy, but drip dying presented an issue. The center circle where the shutoffs passed through leaked dye, so we needed to adjust the mold. fortunately, it was a simple fix - create lines that added to the part, these would create small dams where the drip dye could rest until the liquid evaporated. 
+It took about 2 weeks for the mold to get made. We started to work on some of the issues - getting the artwork onto the target required two separate steps. Drip dyeing and screen printing. Screen printing was pretty easy, but drip dying presented an issue. The center circle where the shutoffs passed through leaked dye, so we needed to adjust the mold. fortunately, it was a simple fix - create lines that added to the part, these would create small dams where the drip dye could rest until the liquid evaporated. 
 
 ![Final Mold]({{site.baseurl}}/assets/img/TIR Targets/Screen-print-drip-dye.jpg)
 
@@ -104,11 +104,11 @@ Parts were decent quality, there were machine marks, bubbles in the drip dye and
 
 ## Production Mold
 
-$1900 more and the mold was complete - a four shot mold was created and we were off to production. Another set of samples was sent and overall quality improved. The drip dyeing was substantially improved, what was previously 20-30 bubbles in the drip dye, was now 1 or 2. The machine marks were gone on the outside and the ejector pin marks were nearly non-existent. I was elated. This was such a huge improvement and now I could start really testing the product.
+A four shot mold was created and we were off to production. Another set of samples was sent and overall quality improved. The drip dyeing was substantially improved, what was previously 20-30 bubbles in the drip dye, was now 1 or 2. The machine marks were gone on the outside and the ejector pin marks were nearly non-existent. I was elated. This was such a huge improvement and now I could start really testing the product.
 
 ## Beta Testers
 
-I had been testing the sample targets for a while, they seemed to hold up well and everything was going smoothly. Then, one day, I was doing some distance training with my dog - 50-60 feet from the dog park in a little courtyard with a couple offices nearby. One of those offices happens to be a physical trainers office and a man in a wheelchair comes out with one leg elevated. He comes over to say hi to our pup and I notice he's wearing a lacrosse windbreaker. We get to talking and it turns out he's a Major League Lacrosse player, if this isn't the stars aligning i'm not sure what is. I send him some samples a couple weeks later and he likes them, one problem... the targets are breaking in the corners. This is not good news - but at least I haven't started selling the targets yet. I begin to scramble for solutions, I've already purchased custom straps - nearly 7000 of them ($4000 worth).
+I had been testing the sample targets for a while, they seemed to hold up well and everything was going smoothly. Then, one day, I was doing some distance training with my dog - 50-60 feet from the dog park in a little courtyard with a couple offices nearby. One of those offices happens to be a physical trainers office and a man in a wheelchair comes out with one leg elevated. He comes over to say hi to our pup and I notice he's wearing a lacrosse windbreaker. We get to talking and it turns out he's a Major League Lacrosse player, if this isn't the stars aligning i'm not sure what is. I send him some samples a couple weeks later and he likes them, one problem... the targets are breaking in the corners. This is not good news - but at least I haven't started selling the targets yet. I begin to scramble for solutions, I've already purchased custom straps.
 
 ## Iteration 6
 
